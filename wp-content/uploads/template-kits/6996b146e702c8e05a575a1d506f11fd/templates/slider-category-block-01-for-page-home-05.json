@@ -1,0 +1,276 @@
+{
+    "version": "0.4",
+    "title": "Slider Category Block 01 for Page Home 05",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-about",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1196a313",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=a8e8de0"
+                },
+                "background_image": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_hover_image": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_overlay_image": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "7d73458f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "21",
+                            "right": "17",
+                            "bottom": "20",
+                            "left": "23",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=secondary"
+                        },
+                        "background_image": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_video_fallback": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_hover_image": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_hover_video_fallback": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_overlay_image": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_overlay_video_fallback": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_overlay_hover_image": {
+                            "url": "",
+                            "id": ""
+                        },
+                        "background_overlay_hover_video_fallback": {
+                            "url": "",
+                            "id": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "37f906c0",
+                            "settings": {
+                                "icon_list": [
+                                    {
+                                        "text": "Music",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "4cf8e82",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    }
+                                ],
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "icon_typography_typography": "globals\/typography?id=67da555"
+                                },
+                                "_background_image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "33241c6",
+                            "settings": {
+                                "image": {
+                                    "id": "7204",
+                                    "url": "https:\/\/demothemesflat.co\/axieskit\/wp-content\/uploads\/2023\/03\/img_category_Home05.png"
+                                },
+                                "image_size": "full",
+                                "width": {
+                                    "unit": "px",
+                                    "size": 290,
+                                    "sizes": []
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_background_image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_video_fallback": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_hover_image": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_background_hover_video_fallback": {
+                                    "url": "",
+                                    "id": ""
+                                },
+                                "_mask_image": {
+                                    "url": "",
+                                    "id": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

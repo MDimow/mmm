@@ -1,0 +1,19 @@
+.step-two {
+  div input[type="text"] {
+    width: 100%;
+  }
+
+  .limit-type-con {
+    justify-content: space-between;
+    & > div {
+      flex-basis: 40%;
+      input[type="number"] {
+        width: 100%;
+      }
+    }
+
+    select {
+      width: 100%;
+    }
+  }
+}

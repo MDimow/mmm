@@ -1,0 +1,217 @@
+# BEGIN HMWP_VULNERABILITY
+
+
+# END HMWP_VULNERABILITY
+
+# BEGIN WP Hide & Security Enhancer
+ 
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase / 
+#RewriteRule .* - [E=WPH_REWRITE_1:ac20052b]
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+
+RewriteCond %{REQUEST_URI} /+[^\.]+$
+RewriteCond %{REQUEST_METHOD} !POST
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,END]
+
+RewriteCond %{REQUEST_URI} ([^/]+)/(feed|rdf|rss|rss2|atom)/?$  [OR]
+RewriteCond %{REQUEST_URI} ^(feed|rdf|rss|rss2|atom)/?$
+RewriteRule . /index.php?wph-throw-404 [END]
+
+RewriteRule ^sefhsrtjhrth/(.+) "/wp-content/plugins/coming-soon/$1" [END,QSA]
+RewriteRule ^jmtyrsger/(.+) "/wp-content/plugins/custom-css-js/$1" [END,QSA]
+RewriteRule ^23sfsd/(.+) "/wp-content/plugins/elementor-pro/$1" [END,QSA]
+RewriteRule ^hsdfg345/(.+) "/wp-content/plugins/elementor/$1" [END,QSA]
+RewriteRule ^ndsrfhde456rfd/(.+) "/wp-content/plugins/smart-nft/$1" [END,QSA]
+RewriteRule ^dfhsdh45dh/(.+) "/wp-content/plugins/smartnft-1155/$1" [END,QSA]
+RewriteRule ^shhrty35aszf/(.+) "/wp-content/plugins/smartnft-auction/$1" [END,QSA]
+RewriteRule ^hssdt456edfhs/(.+) "/wp-content/plugins/smartnft-bulk-minting/$1" [END,QSA]
+RewriteRule ^srjtrs563tdsf/(.+) "/wp-content/plugins/smartnft-erc20/$1" [END,QSA]
+RewriteRule ^dhjse456sf/(.+) "/wp-content/plugins/smartnft-importer/$1" [END,QSA]
+RewriteRule ^dfhse453s/(.+) "/wp-content/plugins/smartnft-multichain/$1" [END,QSA]
+RewriteRule ^eas4tsadaser/(.+) "/wp-content/plugins/smartnft-multiwallet/$1" [END,QSA]
+RewriteRule ^eah34ha34had/(.+) "/wp-content/plugins/smartnft-verification/$1" [END,QSA]
+
+RedirectMatch 404 ^/wp-content/mu-plugins(/?|/.*)$
+
+RewriteRule ^45ega43t/(.+) /wp-includes/$1 [QSA,END]
+
+RewriteRule ^wp-includes(.+) /index.php?wph-throw-404 [END]
+
+RewriteRule ^dfhgkyukf/(.+) /wp-content/uploads/$1 [L,QSA]
+
+RewriteRule ^wp-content/uploads/(.+) /dfhgkyukf/$1 [R=301,END,QSA]
+
+RewriteRule ^wp-json(.*)? /index.php?wph-throw-404 [END]
+RewriteCond %{QUERY_STRING} ^rest_route=.* [NC]
+RewriteCond %{HTTP_USER_AGENT}  !^Jetpack\ by\ WordPress\.com$ [NC]
+RewriteRule .* /index.php?wph-throw-404 [END]
+
+RewriteRule ^dfgdfg/?$ /index.php?rest_route=/ [END,QSA]
+RewriteRule ^dfgdfg/(.*)? /index.php?rest_route=/$1 [END,QSA]
+
+RewriteRule ^rtretge /wp-signup.php [END,QSA]
+
+RewriteRule ^erterterrt /wp-activate.php [END,QSA]
+
+RewriteRule ^([_0-9a-zA-Z-]+/)?ghost-login.php(.*) /wp-login.php$2 [END,QSA]
+
+RewriteRule ^([_0-9a-zA-Z-]+/)?xmlrpc.php - [R=404]
+
+RewriteRule ^license.txt /index.php?wph-throw-404 [END]
+
+RewriteRule ^readme.html /index.php?wph-throw-404 [END]
+
+RewriteRule ^wp-activate.php /index.php?wph-throw-404 [END]
+
+RewriteRule ^wp-signup.php /index.php?wph-throw-404 [END]
+
+RewriteRule ^wp-register.php /index.php?wph-throw-404 [END]
+
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^([_0-9a-zA-Z-]+/)?wp-login.php /index.php?wph-throw-404 [END]
+
+RewriteCond %{REQUEST_URI} !/wp-activate.php [NC]
+RewriteCond %{REQUEST_URI} !/wp-cron.php [NC]
+RewriteCond %{REQUEST_URI} !/wp-signup.php [NC]
+RewriteCond %{REQUEST_URI} !/wp-comments-post.php [NC]
+RewriteCond %{REQUEST_URI} !/wp-login.php [NC]
+RewriteRule ^wp-([a-z-])+.php /index.php?wph-throw-404 [END]
+
+RewriteRule ^iwordolt.php /wp-comments-post.php [END,QSA]
+
+RewriteCond %{REQUEST_URI} /ghost-admin$
+RewriteRule ^(.*)$ /ghost-admin/ [R=301,END]
+RewriteRule ^([_0-9a-zA-Z-]+/)?ghost-admin/(.*) /wp-admin/$2 [END,QSA]
+
+RewriteRule ^wp-comments-post.php /index.php?wph-throw-404 [END]
+
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-admin(.+) /index.php?wph-throw-404 [L]
+
+RewriteRule ^fgdfbc/(.+) /wp-content/$1 [QSA,L]
+
+RewriteCond %{ENV:REDIRECT_STATUS} ^$
+RewriteRule ^wp-content/(.+) /index.php?wph-throw-404 [END]
+</IfModule> 
+ 
+
+# END WP Hide & Security Enhancer
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+#Front-End Redirects
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/search.svg https://mintmingle.ai/temporary/images/search.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/verified.svg https://mintmingle.ai/temporary/images/verified.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/1.jpg https://mintmingle.ai/temporary/images/1.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/3.jpg https://mintmingle.ai/temporary/images/3.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/4.jpg https://mintmingle.ai/temporary/images/4.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/56.jpg https://mintmingle.ai/temporary/images/56.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/137.jpg https://mintmingle.ai/temporary/images/137.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/1337.jpg https://mintmingle.ai/temporary/images/1337.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/43114.jpg https://mintmingle.ai/temporary/images/43114.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/80001.jpg https://mintmingle.ai/temporary/images/80001.jpg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/arrow.svg https://mintmingle.ai/temporary/images/arrow.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/buy-bag.svg https://mintmingle.ai/temporary/images/buy-bag.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/copy.svg https://mintmingle.ai/temporary/images/copy.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/cross.svg https://mintmingle.ai/temporary/images/cross.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/demo-user.svg https://mintmingle.ai/temporary/images/demo-user.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/discord.svg https://mintmingle.ai/temporary/images/discord.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/edit-pencil.svg https://mintmingle.ai/temporary/images/edit-pencil.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/etherlogo.svg https://mintmingle.ai/temporary/images/etherlogo.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/etherscanlogo.svg https://mintmingle.ai/temporary/images/etherscanlogo.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/eye.svg https://mintmingle.ai/temporary/images/eye.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/filter.svg https://mintmingle.ai/temporary/images/filter.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/green-tick.svg https://mintmingle.ai/temporary/images/green-tick.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/img.svg https://mintmingle.ai/temporary/images/img.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/insta.svg https://mintmingle.ai/temporary/images/insta.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/left-arrow.svg https://mintmingle.ai/temporary/images/left-arrow.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/lighting.svg https://mintmingle.ai/temporary/images/lighting.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/like-filled.svg https://mintmingle.ai/temporary/images/like-filled.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/like.svg https://mintmingle.ai/temporary/images/like.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/mmicon.svg https://mintmingle.ai/temporary/images/mmicon.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/right-arrow.svg https://mintmingle.ai/temporary/images/right-arrow.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/share.svg https://mintmingle.ai/temporary/images/share.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/telegram.svg https://mintmingle.ai/temporary/images/telegram.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/tw.svg https://mintmingle.ai/temporary/images/tw.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/unlock.svg https://mintmingle.ai/temporary/images/unlock.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/upload.svg https://mintmingle.ai/temporary/images/upload.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/verify-bg.svg https://mintmingle.ai/temporary/images/verify-bg.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/web.svg https://mintmingle.ai/temporary/images/web.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/discord.svg https://mintmingle.ai/temporary/images/socials/discord.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/facebook.svg https://mintmingle.ai/temporary/images/socials/facebook.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/instagram.svg https://mintmingle.ai/temporary/images/socials/instagram.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/linkedin.svg https://mintmingle.ai/temporary/images/socials/linkedin.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/reddit.svg https://mintmingle.ai/temporary/images/socials/reddit.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/snapchat.svg https://mintmingle.ai/temporary/images/socials/snapchat.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/telegram.svg https://mintmingle.ai/temporary/images/socials/telegram.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/tiktok.svg https://mintmingle.ai/temporary/images/socials/tiktok.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/tumblr.svg https://mintmingle.ai/temporary/images/socials/tumblr.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/twitter.svg https://mintmingle.ai/temporary/images/socials/twitter.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/vk.svg https://mintmingle.ai/temporary/images/socials/vk.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/website.svg https://mintmingle.ai/temporary/images/socials/website.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/whatsapp.svg https://mintmingle.ai/temporary/images/socials/whatsapp.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/socials/youtube.svg https://mintmingle.ai/temporary/images/socials/youtube.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/1.svg https://mintmingle.ai/temporary/images/networks/1.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/3.svg https://mintmingle.ai/temporary/images/networks/3.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/4.svg https://mintmingle.ai/temporary/images/networks/4.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/5.svg https://mintmingle.ai/temporary/images/networks/5.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/56.svg https://mintmingle.ai/temporary/images/networks/56.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/97.svg https://mintmingle.ai/temporary/images/networks/97.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/137.svg https://mintmingle.ai/temporary/images/networks/137.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/1337.svg https://mintmingle.ai/temporary/images/networks/1337.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/43114.svg https://mintmingle.ai/temporary/images/networks/43114.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/80001.svg https://mintmingle.ai/temporary/images/networks/80001.svg
+Redirect 301 /wp-content/plugins/smart-nft/frontend/assets/images/networks/default.svg https://mintmingle.ai/temporary/images/networks/default.svg
+
+#Back-End Redirects
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/loaders/done.svg https://mintmingle.ai/temporary/images/backend/loaders/done.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/loaders/loading.svg https://mintmingle.ai/temporary/images/backend/loaders/loading.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/loaders/success.svg https://mintmingle.ai/temporary/images/backend/loaders/success.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/loaders/warning.svg https://mintmingle.ai/temporary/images/backend/loaders/warning.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/1.svg https://mintmingle.ai/temporary/images/backend/networks/1.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/56.svg https://mintmingle.ai/temporary/images/backend/networks/56.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/137.svg https://mintmingle.ai/temporary/images/backend/networks/137.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/43114.svg https://mintmingle.ai/temporary/images/backend/networks/43114.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/80001.svg https://mintmingle.ai/temporary/images/backend/networks/80001.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/networks/default.svg https://mintmingle.ai/temporary/images/backend/networks/default.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/1.jpg https://mintmingle.ai/temporary/images/backend/1.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/3.jpg https://mintmingle.ai/temporary/images/backend/3.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/4.jpg https://mintmingle.ai/temporary/images/backend/4.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/56.jpg https://mintmingle.ai/temporary/images/backend/56.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/137.jpg https://mintmingle.ai/temporary/images/backend/137.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/1337.jpg https://mintmingle.ai/temporary/images/backend/1337.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/43114.jpg https://mintmingle.ai/temporary/images/backend/43114.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/80001.jpg https://mintmingle.ai/temporary/images/backend/80001.jpg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/checkmark.svg https://mintmingle.ai/temporary/images/backend/checkmark.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/coinbase-logo.svg https://mintmingle.ai/temporary/images/backend/coinbase-logo.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/coinbase.svg https://mintmingle.ai/temporary/images/backend/coinbase.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/cross.svg https://mintmingle.ai/temporary/images/backend/cross.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/delete.svg https://mintmingle.ai/temporary/images/backend/delete.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/erc721.svg https://mintmingle.ai/temporary/images/backend/erc721.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/logo.png https://mintmingle.ai/temporary/images/backend/logo.png
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/logo.svg https://mintmingle.ai/temporary/images/backend/logo.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/menu-logo.svg https://mintmingle.ai/temporary/images/backend/menu-logo.svg
+Redirect 301 /wp-content/plugins/smart-nft/backend/assets/images/mmicon.svg https://mintmingle.ai/temporary/images/backend/mmicon.svg
+Redirect 301 /wp-content/plugins/smartnft-multiwallet/assets/images/coinbase.svg https://mintmingle.ai/temporary/images/backend/coinbase.svg
+

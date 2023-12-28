@@ -1,0 +1,40 @@
+#nft-bulk-minting {
+  .name-symbol {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+
+    input {
+      width: 100%;
+      border: 1px solid #ddd;
+      height: 40px;
+    }
+  }
+
+  .queue-list {
+    .queue-item {
+      display: grid;
+      grid-template-columns: max-content 1fr 30px 15px;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 20px;
+      font-weight: 600;
+
+      img.m-img {
+        object-fit: cover;
+        display: block;
+        width: 30px;
+        height: 100%;
+        border-radius: 4px;
+      }
+
+      img.m-svg {
+        width: 15px;
+        cursor: pointer;
+      }
+    }
+  }
+}

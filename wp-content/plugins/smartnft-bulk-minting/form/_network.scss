@@ -1,0 +1,51 @@
+.form-wallet {
+  &__title {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  &__text {
+    margin-bottom: 0;
+  }
+
+  &__display {
+    display: flex;
+    align-items: center;
+    width: auto;
+    padding: 0px 10px;
+    border-radius: 10px;
+    border: 1px solid #c6bebe;
+    margin-bottom: 36px;
+  }
+
+  &__icon {
+    height: 54px;
+    width: 54px;
+    border-radius: 50%;
+  }
+
+  &__connect,
+  &__connected {
+    margin-left: auto;
+    color: #1e9b4b;
+    padding: 6px 12px;
+    border-radius: 8px;
+    background: rgba(30, 155, 75, 0.17);
+    cursor: pointer;
+    margin-bottom: 0;
+  }
+
+  &__connect {
+    background: #ff0000b0;
+    color: #fff;
+  }
+
+  &__address {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #000;
+    margin-bottom: 5px !important;
+    margin-top: 7px !important;
+  }
+}

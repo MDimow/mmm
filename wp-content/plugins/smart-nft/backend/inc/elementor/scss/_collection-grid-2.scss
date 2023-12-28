@@ -1,0 +1,69 @@
+.smartnft-coll-grid-two {
+  @include responsive(tab-port) {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    grid-auto-rows: 70px !important;
+    grid-auto-flow: row !important;
+    grid-template-rows: 70px !important;
+  }
+
+  & > div * {
+    margin: 0;
+    padding: 0;
+  }
+
+  div.grid-con {
+    display: grid;
+    grid-template-columns: 30px 60px 1fr max-content;
+    align-items: center;
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 10px;
+  }
+
+  div.grid-con {
+    span.number {
+      font-size: 14px;
+      color: gray;
+    }
+
+    img.collimg,
+    span.noimg {
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+    }
+
+    span.noimg {
+      background-color: #ddd;
+    }
+
+    h3 {
+      font-size: 16px;
+      margin: 0;
+      padding: 0;
+    }
+
+    h3 img {
+      width: 12px;
+    }
+
+    span.volume {
+      font-size: 14px;
+      color: #000;
+      font-weight: 500;
+      text-align: end;
+    }
+
+    span.floor,
+    span.count {
+      font-size: 14px;
+      color: gray;
+      display: block;
+      margin-top: 5px;
+      span {
+        color: #000;
+        font-weight: 500;
+      }
+    } //end span.floor & span.count
+  } //end div.grid-con
+} //end smartnft-coll-grid-two

@@ -1,0 +1,21 @@
+@mixin inputStyle {
+  height: 35px;
+  padding: 5px 15px;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 14px;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  &:focus {
+    outline: none;
+    border-width: 1px;
+  }
+  &:focus-visible {
+    outline: none;
+    border-width: 1px;
+  }
+  &::placeholder {
+    color: #a7a7a7;
+  }
+}

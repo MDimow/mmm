@@ -1,0 +1,107 @@
+/**
+ * @Package: WordPress Plugin
+ * @Subpackage: Legacy - White Label WordPress Admin Theme
+ * @Since: Legacy 1.0
+ * @WordPress Version: 4.0 or above
+ * This file is part of Legacy - White Label WordPress Admin Theme Plugin.
+ */
+
+ /*revolution slider & visual composer*/
+
+body .composer-switch, body .composer-switch *, body #vc_properties-panel,
+.toplevel_page_revslider *{
+	box-sizing:content-box;
+	-o-box-sizing:content-box;
+	-ms-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	-webkit-box-sizing:content-box;
+}
+
+.toplevel_page_themepunch-google-fonts .button-primary,
+.toplevel_page_themepunch-google-fonts .button-secondary,
+.toplevel_page_revslider .button-secondary,
+.toplevel_page_revslider .button-primary{
+	padding: 0px 10px 1px 10px;
+	height: auto;
+}
+
+/*elementor fixes*/
+.e-overview__create .button{
+	padding: 0px 15px;
+}
+.e-overview__create .dashicons{
+	height: auto;
+	width: auto;
+}
+.e-overview__post a{
+	font-size: 110%;
+    margin: 5px 0;
+    font-weight: bold;
+}
+#elementor-editor .button.button-hero, .wp-core-ui #elementor-editor .button.button-hero:active{
+	padding-top: 0px !important;
+}
+body.elementor-editor-active #elementor-switch-mode-button{
+	box-shadow: none !important;
+}
+
+/*New wordpress editor gutenberg*/
+.edit-post-header{
+	margin-top: 5px;
+}
+@media (min-width: 961px){
+body.auto-fold .block-editor-editor-skeleton {
+    left: 230px;
+}
+}
+
+.components-button.is-tertiary {
+    color: #5a5a5a;
+}
+.components-button.is-secondary {
+    white-space: nowrap;
+    color: #5a5a5a;
+    border: 1px solid #5a5a5a;
+    background: #f3f5f6;
+}
+.components-button.is-primary:disabled, .components-button.is-primary:disabled:active:enabled, .components-button.is-primary[aria-disabled=true], .components-button.is-primary[aria-disabled=true]:active:enabled, .components-button.is-primary[aria-disabled=true]:enabled {
+    color: rgba(255,255,255,0.5);
+    background: var(--tp-primary-color);
+    border-color: var(--tp-primary-color);
+    opacity: 1;
+}
+@media (min-width: 961px){
+body.auto-fold .edit-post-layout .components-editor-notices__snackbar {
+    left: 230px;
+}}
+
+.tp-menumng #menu-dashboard span.update-plugins,
+.tp-menumng #menu-comments .wp-menu-name span,
+.tp-menumng #menu-plugins .wp-menu-name span{
+	display: none !important;
+}
+.tp-menumng #adminmenu .tpcount.awaiting-mod,
+.tp-menumng .wp-menu-name .tpcount, 
+.tp-menumng .wp-submenu .tpcount, .tpcount{
+    display: inline-block;
+    background: var(--tp-button-primary-bg);
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    top: -5px;
+    left: 5px;
+    position: relative;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.wp-has-submenu>.tpcount{
+	display: none !important;
+}
+.tpcount.count-0{display: none !important;}
+#e-dashboard-overview .dashicons {
+    vertical-align: middle;
+    font-size: 17px;
+    line-height: 41px;
+}

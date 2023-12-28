@@ -1,0 +1,6446 @@
+# Copyright (C) 2023 SeedProd
+# This file is distributed under the same license as the SeedProd package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SeedProd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: SeedProd <support@seedprod.com>\n"
+"Last-Translator: John Turner <john@seedprod.com>\n"
+"Report-Msgid-Bugs-To: https://seedprod.com/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: build/coming-soon/app/admin-bar-menu.php:49
+msgid "Coming Soon Mode Active"
+msgstr ""
+
+#: build/coming-soon/app/admin-bar-menu.php:51
+msgid "Maintenance Mode Active"
+msgstr ""
+
+#: build/coming-soon/app/admin-bar-menu.php:53
+msgid "Theme Preview Mode Active"
+msgstr ""
+
+#. translators: 1: wordpress.org coming-soon plugin review, 2: wordpress.org coming-soon plugin review
+#: build/coming-soon/app/bootstrap.php:562
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:100
+msgid "Are you enjoying SeedProd?"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:102, build/coming-soon/languages/seedprod-lite.php:432
+msgid "Yes"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:103
+msgid "Not Really"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:107
+msgid "We're sorry to hear you aren't enjoying SeedProd. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:109
+msgid "Give Feedback"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:110
+msgid "No thanks"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:114
+msgid "That’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:115
+msgid "~ John Turner<br>Co-Founder of SeedProd"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:117
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:118
+msgid "Nope, maybe later"
+msgstr ""
+
+#: build/coming-soon/app/class-seedprod-review.php:119
+msgid "I already did"
+msgstr ""
+
+#: build/coming-soon/app/edit_with_seedprod.php:233
+msgid "Edit with SeedProd"
+msgstr ""
+
+#: build/coming-soon/app/edit_with_seedprod.php:234
+msgid "Switch Back to WordPress Editor"
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:113
+msgid "Plugin deactivated."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:115
+msgid "Addon deactivated."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:119
+msgid "Could not deactivate the addon. Please deactivate from the Plugins page."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:133
+msgid "Could not activate addon. Please check user permissions."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:147
+msgid "Plugin activated."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:149
+msgid "Addon activated."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:154
+msgid "Could not activate addon. Please activate from the Plugins page."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:157
+msgid "Could not activate addon. Please refresh page and try again."
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:211, build/coming-soon/app/functions-addons.php:280, build/coming-soon/languages/seedprod-lite.php:180
+msgid "Active"
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:216, build/coming-soon/app/functions-addons.php:285, build/coming-soon/languages/seedprod-lite.php:183
+msgid "Inactive"
+msgstr ""
+
+#: build/coming-soon/app/functions-addons.php:222, build/coming-soon/app/functions-addons.php:291
+msgid "Not Installed"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:52
+msgid "SuperAdmin"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:54
+msgid "Anyone Logged In"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:115, build/coming-soon/languages/seedprod-lite.php:3063
+msgid "Column"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:133, build/coming-soon/languages/seedprod-lite.php:4264
+msgid "Headline"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:145, build/coming-soon/languages/seedprod-lite.php:980
+msgid "Text"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:153, build/coming-soon/languages/seedprod-lite.php:2859
+msgid "List"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:162, build/coming-soon/languages/seedprod-lite.php:1542
+msgid "Button"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:170, build/coming-soon/languages/seedprod-lite.php:2694
+msgid "Image"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:178, build/coming-soon/languages/seedprod-lite.php:5735
+msgid "Video"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:186, build/coming-soon/languages/seedprod-lite.php:2932
+msgid "Divider"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:195, build/coming-soon/languages/seedprod-lite.php:5615
+msgid "Spacer"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:204
+msgid " Payment Button"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:214, build/coming-soon/languages/seedprod-lite.php:4231
+msgid "Giveaway"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:225, build/coming-soon/languages/seedprod-lite.php:3124
+msgid "Contact Form"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:234
+msgid "Custom HTML"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:245
+msgid "Optin Form"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:254, build/coming-soon/languages/seedprod-lite.php:5341
+msgid "Tabs"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:263
+msgid "Countdown"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:272
+msgid "Social Profiles"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:281, build/coming-soon/languages/seedprod-lite.php:5606
+msgid "Social Sharing"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:290
+msgid "Animated Headline"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:300, build/coming-soon/languages/seedprod-lite.php:5386
+msgid "Progress Bar"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:309, build/coming-soon/languages/seedprod-lite.php:996
+msgid "Icon"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:318
+msgid "Testimonials"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:328
+msgid "Image Carousel"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:341
+msgid "Image Box"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:351
+msgid "Before After Toggle"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:364
+msgid "Icon Box"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:374
+msgid "Nav Menu"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:382
+msgid "Content Toggle"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:394
+msgid "Pricing Table"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:406
+msgid "Business Reviews"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:425, build/coming-soon/languages/seedprod-lite.php:2281
+msgid "Anchor"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:434, build/coming-soon/languages/seedprod-lite.php:5618
+msgid "Star Rating"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:443, build/coming-soon/languages/seedprod-lite.php:809
+msgid "Accordion"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:452, build/coming-soon/languages/seedprod-lite.php:5524
+msgid "Shortcode"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:461
+msgid "Login Form"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:471, build/coming-soon/languages/seedprod-lite.php:4249
+msgid "Google Maps"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:481
+msgid "Search Form"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:491
+msgid "Facebook Like"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:505
+msgid "Facebook Comments"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:517
+msgid "Facebook Page"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:529
+msgid "Facebook Embed"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:542
+msgid "X (Twitter) Embed Tweet"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:554
+msgid "X (Twitter) Embed Timeline"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:566
+msgid "X (Twitter) Tweet Button"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:578
+msgid "X (Twitter) Follow Button"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:590
+msgid "Advanced Gallery"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:601
+msgid "Gallery"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:612
+msgid "Business Hours"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:620
+msgid "Team Member"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:631
+msgid "Price List"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:640, build/coming-soon/app/functions-utils.php:980
+msgid "Add To Cart"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:650, build/coming-soon/app/functions-utils.php:1178
+msgid "Checkout"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:662, build/coming-soon/app/functions-utils.php:1166, build/coming-soon/languages/seedprod-lite.php:3656
+msgid "Cart"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:675
+msgid "Products Grid"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:687, build/coming-soon/languages/seedprod-lite.php:3949
+msgid "Recent Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:698, build/coming-soon/languages/seedprod-lite.php:3941
+msgid "Sale Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:709, build/coming-soon/languages/seedprod-lite.php:3945
+msgid "Best Selling Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:718, build/coming-soon/languages/seedprod-lite.php:3937
+msgid "Featured Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:727, build/coming-soon/languages/seedprod-lite.php:3953
+msgid "Top Rated Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:737, build/coming-soon/app/functions-utils.php:748
+msgid "Posts"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:759, build/coming-soon/languages/seedprod-lite.php:2093
+msgid "Alert"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:775
+msgid "Post Title"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:787
+msgid "Post Content"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:799
+msgid "Post Excerpt"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:811
+msgid "Featured Image"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:823
+msgid "Author Box"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:835
+msgid "Author Bio"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:848
+msgid "Post Comments"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:860
+msgid "Post Navigation"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:873
+msgid "Post Info"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:885
+msgid "Archive Title"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:907
+msgid "Site Logo"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:920, build/coming-soon/app/functions-utils.php:1314
+msgid "Template Parts"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:932
+msgid "Menu Cart"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:944
+msgid "Product Title"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:956
+msgid "Product Featured Image"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:968
+msgid "Product Price"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:991
+msgid "Product Meta"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1002
+msgid "Product Content"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1013
+msgid "Short Description"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1026
+msgid "Additional Information"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1037
+msgid "Products Related"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1049
+msgid "Upsells"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1061
+msgid "Product Rating"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1074
+msgid "Product Stock"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1086, build/coming-soon/languages/seedprod-lite.php:4207
+msgid "Archive Products"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1097
+msgid "Product Data Tabs"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1110
+msgid "Hotspot"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1129
+msgid "Counter"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1142
+msgid "Product Gallery Images"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1155
+msgid "Downloads Grid"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1189
+msgid "Buy Now Button"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1207
+msgid "Download Title"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1218
+msgid "Download Featured Image"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1229
+msgid "Download Price"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1240
+msgid "Download Content"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1251
+msgid "Download Add To Cart"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1262
+msgid "Download Excerpt"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1273
+msgid "Download Instructions"
+msgstr ""
+
+#: build/coming-soon/app/functions-utils.php:1355
+msgid "Select Time"
+msgstr ""
+
+#: build/coming-soon/app/license.php:17
+msgid "The minimum required version of PHP to run this plugin is PHP Version 5.3.3. Please contact your hosting company and ask them to upgrade this site's php verison."
+msgstr ""
+
+#: build/coming-soon/app/license.php:17
+msgid "Upgrade PHP"
+msgstr ""
+
+#. translators: 1. License name.
+#: build/coming-soon/app/license.php:152, build/coming-soon/languages/seedprod-lite.php:392
+msgid "You currently have the <strong>%s</strong> license."
+msgstr ""
+
+#: build/coming-soon/app/license.php:157
+msgid "Invalid License Key."
+msgstr ""
+
+#: build/coming-soon/app/lpage.php:193, build/coming-soon/app/lpage.php:195, build/coming-soon/app/setup-wizard.php:197, build/coming-soon/app/setup-wizard.php:199
+msgid "New Page"
+msgstr ""
+
+#: build/coming-soon/app/lpage.php:812
+msgid "Starts in"
+msgstr ""
+
+#: build/coming-soon/app/lpage.php:814
+msgid "Ended"
+msgstr ""
+
+#: build/coming-soon/app/lpage.php:975, build/coming-soon/app/theme-templates.php:809
+msgid "<br><br>Please enter a valid license key to access the themes. You can still proceed to create a page with the default theme.<br> <a class='seedprod_no_themes' href='?theme=0'>Click to continue &#8594;</a>"
+msgstr ""
+
+#: build/coming-soon/app/render-csp-mm.php:266
+msgid "Please create your Maintenance Page in the plugin settings."
+msgstr ""
+
+#: build/coming-soon/app/render-csp-mm.php:278
+msgid "Please create enter your redirect url in the plugin settings."
+msgstr ""
+
+#: build/coming-soon/app/render-csp-mm.php:283
+msgid "Please create your Coming Soon Page in the plugin settings."
+msgstr ""
+
+#: build/coming-soon/app/routes.php:53
+msgid "SeedProd"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:54, build/coming-soon/languages/seedprod-lite.php:206
+msgid "Landing Pages"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:62, build/coming-soon/app/routes.php:63, build/coming-soon/app/routes.php:216, build/coming-soon/app/routes.php:217, build/coming-soon/languages/seedprod-lite.php:133
+msgid "Theme Builder"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:71, build/coming-soon/app/routes.php:72, build/coming-soon/languages/seedprod-lite.php:139
+msgid "Setup"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:91, build/coming-soon/app/routes.php:92, build/coming-soon/languages/seedprod-lite.php:102
+msgid "Subscribers"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:101, build/coming-soon/app/routes.php:102
+msgid "Pop-ups"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:111, build/coming-soon/app/routes.php:112, build/coming-soon/languages/seedprod-lite.php:120
+msgid "Settings"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:120, build/coming-soon/app/routes.php:121, build/coming-soon/languages/seedprod-lite.php:98
+msgid "Growth Tools"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:129, build/coming-soon/app/routes.php:130, build/coming-soon/languages/seedprod-lite.php:50
+msgid "About Us"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:138, build/coming-soon/app/routes.php:139
+msgid "Request a Feature"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:148, build/coming-soon/app/routes.php:149, build/coming-soon/languages/seedprod-lite.php:136
+msgid "Import / Export"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:159, build/coming-soon/app/routes.php:160
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:180, build/coming-soon/app/routes.php:181, build/coming-soon/languages/seedprod-lite.php:1675
+msgid "Templates"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:189, build/coming-soon/app/routes.php:190
+msgid "Builder"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:198, build/coming-soon/app/routes.php:199
+msgid "Import/Export"
+msgstr ""
+
+#: build/coming-soon/app/routes.php:207, build/coming-soon/app/routes.php:208
+msgid "Debug"
+msgstr ""
+
+#: build/coming-soon/app/settings.php:67
+msgid "Settings Updated"
+msgstr ""
+
+#: build/coming-soon/app/settings.php:72
+msgid "Error Updating Settings"
+msgstr ""
+
+#: build/coming-soon/app/settings.php:130
+msgid "App Settings Updated"
+msgstr ""
+
+#: build/coming-soon/app/settings.php:136
+msgid "Error Updating App Settings"
+msgstr ""
+
+#: build/coming-soon/app/theme-templates.php:587
+msgid "Global CSS"
+msgstr ""
+
+#: build/coming-soon/app/theme-templates.php:665
+msgid "You're using the <a href=\"%s\">SeedProd</a> Theme to build your web site, which disables the WordPress theme system."
+msgstr ""
+
+#: build/coming-soon/app/theme-templates.php:936
+msgid "This page was auto-generated and is a placeholder page for the SeedProd theme. To manage the contents of this page please visit SeedProd > Theme Builder in the left menu in WordPress. "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6
+msgid "1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:10
+msgid "2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:14
+msgid "3"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:18
+msgid "4"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:22
+msgid "5"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:26
+msgid "6"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:30
+msgid "7"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:34
+msgid "8"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:38
+msgid "9"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:42
+msgid "10"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:46
+msgid "Changes not saved, are you sure you want to leave?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:53
+msgid "Getting Started"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:56
+msgid "Lite vs Pro"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:59
+msgid "Yup, we know a thing or two about building awesome products that customers love."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:62
+msgid "the most popular lead-generation software"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:65
+msgid "the best WordPress analytics plugin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:68
+msgid "the best WordPress forms plugin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:71
+msgid "the best WordPress giveaway plugin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:74
+msgid "and finally the best WordPress FOMO plugin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:77
+msgid "SeedProd Team photo"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:80
+msgid "The SeedProd Team"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:83
+msgid "Hello and welcome to SeedProd, the most beginner friendly drag & drop WordPress landing page plugin. At SeedProd, we build software that helps you create beautiful responsive landing pages for your website in minutes."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:86
+msgid "Over the years, we found that most WordPress landing page plugins were bloated, buggy, slow, and very hard to use. So we started with a simple goal: build a WordPress landing page plugin that’s both easy and powerful."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:89
+msgid "Our goal is to take the pain out of creating landing pages and make it easy."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:92
+msgid "SeedProd is brought to you by the same team that’s behind the largest WordPress resource site,"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:95
+msgid "Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:124
+msgid "SeedProd Logo"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:127
+msgid "Previous message "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:130
+msgid "Next message"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:142
+msgid "Theme Template Kit Chooser"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:146
+msgid "Are you sure?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:149
+msgid "Yes, empty trash!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:152
+msgid "Pages Deleted!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:155
+msgid "Page Duplicated"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:158
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:161
+msgid "Search Landing Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:164
+msgid "The Coming Soon Page will be available to search engines if your site is not private."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:167
+msgid "Set up a Coming Soon Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:171
+msgid "Edit Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:175
+msgid "Preview"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:186
+msgid "Maintenance Mode"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:189
+msgid "The Maintenance Mode Page will notify search engines that the site is unavailable."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:192
+msgid "Set up a Maintenance Mode Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:196
+msgid "404 Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:199
+msgid "Replace your default theme 404 page with a custom high converting 404 page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:202
+msgid "Set up a 404 Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:209
+msgid "Add New Landing Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:213
+msgid "Edit"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:218
+msgid "Duplicate"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:221
+msgid "Last Modified"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:224
+msgid "You do not have any landing pages yet."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:227
+msgid "Create New Landing Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:230
+msgid "SeedProd Coming Soon Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:233
+msgid "SeedProd Maintenance Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:236
+msgid "SeedProd 404 Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:239
+msgid "Create Optin, Sales, Webinar, Thank You or any type of Landing Page you need."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:243
+msgid "Login Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:246
+msgid "Create a Custom Login Page for your website. Optionally replace the default login page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:249
+msgid "Set up a Login Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:252
+msgid "SeedProd Login Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:258
+msgid "All"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:261
+msgid "Published"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:264
+msgid "Drafts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:267
+msgid "Trash"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:270
+msgid "Move To Trash"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:273
+msgid "Restore"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:276
+msgid "Delete Permanently"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:284
+msgid "Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:287
+msgid "URL"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:295
+msgid "Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:300
+msgid "Loading"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:303
+msgid "Pages Moved to Trash."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:306
+msgid "Pages Restored."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:313
+msgid "Install"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:316
+msgid "Deactivate"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:323
+msgid "Activate"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:327
+msgid "Status"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:330
+msgid "PRO Version installed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:333
+msgid "Get OptinMonster Now"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:336
+msgid "OptinMonster is Active - Go to Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:339
+msgid "Activate OptinMonster"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:342
+msgid "Activating OptinMonster"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:350
+msgid "General"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:353
+msgid "Emails"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:356
+msgid "Integrations"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:359
+msgid "License"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:362
+msgid "Your license key provides access to updates and addons."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:365
+msgid "You're using <strong>SeedProd Lite</strong> - No License needed. Enjoy!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:368
+msgid "To unlock more features consider <a href='%s' target='_blank'>upgrading to PRO</a> . As a valued SeedProd Lite user you'll receive <strong>a discount off the regular price</strong>, automatically applied at checkout! "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:371
+msgid "If you already have a license key for <a href='%s' target='_blank'>SeedProd Lite</a>, please enter it to Upgrade to the Pro Features. SeedProd.com will be used to verify and connect you to SeedProd."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:374
+msgid "License Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:377
+msgid "Enter Your License Key Here"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:380
+msgid "Recheck Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:383
+msgid "Verify Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:386
+msgid "Deactivate Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:389
+msgid "Connect to SeedProd to Install the Pro Version"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:395
+msgid "Debug Information"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:398
+msgid "Facebook APP ID"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:402
+msgid "Global Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:405
+msgid "Save Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:408
+msgid "Disable Edit SeedProd Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:411
+msgid "Enable Usage Tracking"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:414
+msgid "Google Places API Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:417
+msgid "Yelp API Key"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:420
+msgid "Disable SeedProd Notifications"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:444
+msgid "No"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:448
+msgid "Could not be saved. Please contact Support if you continue to experience this issue."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:452
+msgid "Saved!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:455
+msgid "Looks like you don't have permission to save."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:458
+msgid "<h1 class='sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold'>Template Setup Complete</h1>"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:461
+msgid "You can close this window and get started editing you page<br> or setup a new page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:471
+msgid "Close"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:474
+msgid "Click the button below to install and activate the following free plugins:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:477
+msgid "Install and Activate Plugins"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:480
+msgid "I'll do it later"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:483
+msgid "<h1 class=\"sp-text-2xl sp-text-neutral sp-m-0 sp-mb-4 sp-font-bold\">Finishing Up!</h1><p class=\"sp-text-sm sp-text-neutral sp-font-normal\">Please do not refresh or exit this page<br>until this process is complete.<p>"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:486
+msgid "Setup a Coming Soon Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:489
+msgid "A Coming Soon Page will hide your site from public but you'll still be able to see it and work on it if logged in."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:492
+msgid "Setup a Maintenance Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:495
+msgid "A Maintenance Page will notify search engines that the site is unavailable."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:498
+msgid "Setup a Landing Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:501
+msgid "Landing Pages are meant to be standalone pages seperate from the design of your site and theme."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:504
+msgid "Edit Landing Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:507
+msgid "Build a Website"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:510
+msgid "Build your entire Website. Create Headers, Footers, Pages, Posts, Archives, Sidebars, and more."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:513
+msgid "Select a Theme for my Website"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:516
+msgid "Edit Theme"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:519
+msgid "Build a WooCommerce Store"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:522
+msgid "Create an entire WooCommerce store. Customize product pages, checkout, cart, product grids, and more."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:525
+msgid "Select a Theme for my Store"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:528
+msgid "Setup a Login Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:531
+msgid "Create a custom Login page for your website."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:534
+msgid "Setup a 404 Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:537
+msgid "Create a custom 404 page for your website."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:540
+msgid "Dismiss This Setup Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:543
+msgid "Finish Setup"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:546
+msgid "There was an issue completing the setup. Please refresh the page and try again."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:549
+msgid "Subscribers Overview"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:552
+msgid "Export to CSV"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:555
+msgid "All Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:558
+msgid "Coming Soon Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:561
+msgid "Maintenance Mode Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:564
+msgid "Days"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:567
+msgid "You do not have any subscribers yet."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:570
+msgid "Go to Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:573
+msgid "Search Emails"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:577
+msgid "Email"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:580
+msgid "Created"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:585
+msgid "Delete"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:588
+msgid "Subscribers Deleted"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:591
+msgid "Exported Started"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:596
+msgid "All Templates"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:601
+msgid "Favorite Templates"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:606
+msgid "Filter:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:612
+msgid "No Templates Found"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:618
+msgid "First Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:624
+msgid "Prev"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:630
+msgid "Next"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:636
+msgid "Last Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:641
+msgid "Search templates..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:646
+msgid "WooCommerce"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:650
+msgid "Sort:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:653
+msgid "Thank you for choosing SeedProd - The Best Website Builder, Landing Page Builder, Coming Soon, Maintenance Mode & more..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:656
+msgid "Get Started →"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:659
+msgid "← Exit Setup"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:662
+msgid "Note: You will be transfered to an SeedProd.com to complete the setup wizard."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:665
+msgid "Use our setup wizard to get started in less than 2 minutes and unlock free templates!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:668
+msgid "Use our setup wizard to get started in less than 2 minutes!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:671
+msgid ""
+"Are you sure you want to exit the setup wizard?\n"
+"\n"
+"You will miss out on our free templates. 😬"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:676
+msgid "Are you sure you want to exit the setup wizard? 😬"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:738
+msgid "Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:806
+msgid "Advanced"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:819
+msgid "Add New Item"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:830
+msgid "Font Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:849
+msgid "Space Between"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:892
+msgid "Styles"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:900
+msgid "List Layout"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:913
+msgid "Vertical"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:926
+msgid "Horizontal"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:945
+msgid "Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:955
+msgid "Spacing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:963
+msgid "Top Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1024
+msgid "Choose Your Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1027
+msgid "Closed Icon Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1030
+msgid "Closed Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1033
+msgid "Open Icon Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1036
+msgid "Open Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1049
+msgid "Header Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1053
+msgid "Header Open Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1060
+msgid "Divider Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1098
+msgid "Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1118
+msgid "Text Shadow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1127
+msgid "Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1151
+msgid "Top"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1175
+msgid "Bottom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1197
+msgid "Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1219
+msgid "Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1249
+msgid "Shadow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1290
+msgid "None"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1328
+msgid "Hairline"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1369
+msgid "Small"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1410
+msgid "Medium"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1451
+msgid "Large"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1490
+msgid "X Large"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1528
+msgid "2X Large"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1551
+msgid "Button Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1572
+msgid "Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1580
+msgid "Vertical Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1588
+msgid "Horizontal Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1618
+msgid "Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1628
+msgid "Icons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1639
+msgid "Before Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1650
+msgid "After Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1683
+msgid "Tiny"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1691
+msgid "Pill Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1699
+msgid "Flat Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1707
+msgid "Blue Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1715
+msgid "Light Green Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1723
+msgid "Green Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1731
+msgid "Orange Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1739
+msgid "Red Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1747
+msgid "Yellow Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1755
+msgid "White Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1763
+msgid "Grey Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1771
+msgid "Black Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1787
+msgid "Button Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1803
+msgid "Flat"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1819
+msgid "2D"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1835
+msgid "Vintage"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1851
+msgid "Ghost"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1858
+msgid "Button Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1864
+msgid "Button Background Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1885
+msgid "Solid"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1892
+msgid "Gradient"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1901
+msgid "Normal"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1907
+msgid "Hover"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1933
+msgid "Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1940
+msgid "Gradient Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1947
+msgid "Radial"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1954
+msgid "Linear"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1961
+msgid "Angle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1971
+msgid "Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1978
+msgid "Top Center"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1987
+msgid "Top Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:1996
+msgid "Top Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2003
+msgid "Center Center"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2010
+msgid "Center Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2017
+msgid "Center Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2024
+msgid "Bottom Center"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2033
+msgid "Bottom Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2042
+msgid "Bottom Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2049
+msgid "First Color Location"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2056
+msgid "Second Color Location"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2063
+msgid "First Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2070
+msgid "Second Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2086
+msgid "Custom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2090
+msgid "Header"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2104
+msgid "Title"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2112
+msgid "Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2115
+msgid "Title Font Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2119
+msgid "Title Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2123
+msgid "Description Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2128
+msgid "Title Tag"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2131
+msgid "Description Font Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2135
+msgid "h1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2139
+msgid "h2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2143
+msgid "h3"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2147
+msgid "h4"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2171
+msgid "Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2179
+msgid "Description Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2182
+msgid "Title Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2185
+msgid "Dismiss Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2193
+msgid "H5"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2201
+msgid "H6"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2204
+msgid "Show Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2218
+msgid "Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2221
+msgid "Info"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2224
+msgid "Success"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2227
+msgid "Warning"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2230
+msgid "Danger"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2233
+msgid "Dismiss Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2239
+msgid "Show"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2244
+msgid "Hide"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2254
+msgid "Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2257
+msgid "Style 1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2260
+msgid "Style 2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2263
+msgid "Style 3"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2266
+msgid "Style 4"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2273
+msgid "Insert Dynamic Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2278
+msgid "Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2284
+msgid "Animation Effects"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2287
+msgid "Scrolling Effect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2290
+msgid "Mouse Effect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2293
+msgid "Vertical Scroll"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2296
+msgid "Speed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2299
+msgid "Viewport"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2302
+msgid "Viewport Top %"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2305
+msgid "Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2308
+msgid "Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2311
+msgid "Horizontal Scroll"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2314
+msgid "Direction"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2317
+msgid "To Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2320
+msgid "To Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2323
+msgid "Transparency"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2326
+msgid "Fade Out"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2334
+msgid "Level"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2338
+msgid "Blur"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2341
+msgid "Rotate"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2345
+msgid "Scale"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2348
+msgid "Scale Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2351
+msgid "Scale Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2354
+msgid "Mouse Track"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2357
+msgid "Opposite"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2360
+msgid "Direct"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2363
+msgid "3D Tilt"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2366
+msgid "Entrance Animation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2369
+msgid "Select Animation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2372
+msgid "Fading"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2375
+msgid "Fade In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2378
+msgid "Fade In Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2381
+msgid "Fade In Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2384
+msgid "Fade In Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2387
+msgid "Fade In Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2390
+msgid "Zooming"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2393
+msgid "Zoom In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2396
+msgid "Zoom In Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2399
+msgid "Zoom In Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2402
+msgid "Zoom In Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2405
+msgid "Zoom In Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2408
+msgid "Rotating"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2411
+msgid "Rotate In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2414
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2417
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2420
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2423
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2426
+msgid "Attention Seekers"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2429
+msgid "Bounce"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2432
+msgid "Flash"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2435
+msgid "Pulse"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2438
+msgid "Rubber Band"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2441
+msgid "Shake X"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2444
+msgid "Shake Y"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2447
+msgid "Head Shake"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2450
+msgid "Swing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2453
+msgid "Tada"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2456
+msgid "Wobble"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2459
+msgid "Jello"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2462
+msgid "Heart Beat"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2465
+msgid "Back In Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2468
+msgid "Back In Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2471
+msgid "Back In Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2474
+msgid "Back In Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2477
+msgid "Bounce In Down"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2480
+msgid "Bounce In Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2483
+msgid "Bounce In Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2486
+msgid "Bounce In Up"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2489
+msgid "Fade In Down Big"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2492
+msgid "Fade In Left Big"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2495
+msgid "Fade In Right Big"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2498
+msgid "Fade In Up Big"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2501
+msgid "Fade In Top Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2504
+msgid "Fade In Top Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2507
+msgid "Fade In Bottom Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2510
+msgid "Fade In Bootom Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2514
+msgid "Flip"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2517
+msgid "Flip In X"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2520
+msgid "Flip In Y"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2523
+msgid "Light Speed In Left"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2526
+msgid "Light Speed In Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2529
+msgid "Roll In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2532
+msgid "Back In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2535
+msgid "Bounce In"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2538
+msgid "Note: In the preview the animation is applied when you select it. On the live page the animation will be applied when the element is scrolled into view."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2541
+msgid "Attributes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2544
+msgid "Custom Class"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2547
+msgid "Css ID"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2550
+msgid "Background Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2553
+msgid "Background Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2556
+msgid "Full Screen Cover - Fixed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2559
+msgid "100% Width Top"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2562
+msgid "Repeat Horizontal Top"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2565
+msgid "Repeat Horizontal Bottom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2568
+msgid "Repeat Vertical Center"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2571
+msgid "100% Width Bottom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2574
+msgid "Custom Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2577
+msgid "Background Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2580
+msgid "Full Screen Contain - Fixed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2583
+msgid "Full Screen Cover"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2586
+msgid "Full Screen Contain"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2589
+msgid "X Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2592
+msgid "Y Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2595
+msgid "Attachment"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2613
+msgid "Default"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2617
+msgid "Scroll"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2621
+msgid "Fixed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2624
+msgid "Repeat"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2627
+msgid "No-repeat"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2630
+msgid "Repeat-x"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2633
+msgid "Repeat-y"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2637
+msgid "Auto"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2641
+msgid "Cover"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2645
+msgid "Contain"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2659
+msgid "Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2667
+msgid "Dim Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2675
+msgid "Overlay Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2697
+msgid "Before Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2700
+msgid "After Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2704
+msgid "Before Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2708
+msgid "After Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2719
+msgid "Image Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2725
+msgid "Header Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2736
+msgid "Label Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2740
+msgid "Orientation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2744
+msgid "Slider Orientation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2748
+msgid "Move on Hover"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2752
+msgid "Comparison Handle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2756
+msgid "Handle Initial Offset"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2760
+msgid "Handle Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2764
+msgid "Handle Thickness"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2768
+msgid "Circle Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2772
+msgid "Circle Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2776
+msgid "Triangle Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2779
+msgid "Before /After Label Styles"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2784
+msgid "Border"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2797
+msgid "Border Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2815
+msgid "Dotted"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2833
+msgid "Dashed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2845
+msgid "Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2856
+msgid "Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2870
+msgid "Icon Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2874
+msgid "Striped Effect Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2878
+msgid "Divider Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2882
+msgid "Background Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2885
+msgid "Business Days and Timing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2889
+msgid "Date Font Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2893
+msgid "Time Font Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2897
+msgid "Date Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2901
+msgid "Time Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2904
+msgid "Enter Day"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2907
+msgid "Enter Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2911
+msgid "Style Day/Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2915
+msgid "Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2919
+msgid "Day Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2923
+msgid "Time Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2937
+msgid "Weight"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2942
+msgid "Day and Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2947
+msgid "Striped Effect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2952
+msgid "Striped Odd Rows Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2957
+msgid "Striped Even Rows Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2971
+msgid "Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2980
+msgid "Add \"No Follow\""
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:2986
+msgid "Button Sub Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3000
+msgid "Open In New Window"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3004
+msgid "Button Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3009
+msgid "Button Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3012
+msgid "Column Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3026
+msgid "Layout"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3033
+msgid "Advanced Styles"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3037
+msgid "Content Alignment"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3042
+msgid "Simple"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3046
+msgid "Display"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3050
+msgid "Flex Direction"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3054
+msgid "Justify Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3058
+msgid "Align Items"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3068
+msgid "Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3072
+msgid "Flex Start"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3076
+msgid "Center"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3080
+msgid "Flex End"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3084
+msgid "Space Around"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3088
+msgid "Space Evenly"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3092
+msgid "Baseline"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3096
+msgid "Stretch"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3102
+msgid "Shape Divider"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3105
+msgid "Global Colors"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3108
+msgid "Common Colors"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3111
+msgid "Recently Used"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3115
+msgid "Clear"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3118
+msgid "Global Theme Colors"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3121
+msgid "Install Contact Form plugin:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3128
+msgid "(This shortcode will be rendered on the live preview.)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3132
+msgid "Select a Form"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3135
+msgid "You can use WPForms to build contact forms, surveys, payment forms, and more with just a few clicks."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3138
+msgid "Select"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3141
+msgid "Need to make changes? Edit the selected form."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3144
+msgid "+ New Form"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3148
+msgid "Form Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3152
+msgid "Form Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3158
+msgid "Form"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3162
+msgid "Display Options"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3165
+msgid "Heading 1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3168
+msgid "Heading 2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3171
+msgid "Content Area 1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3174
+msgid "Content Area 2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3177
+msgid "Toggle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3180
+msgid "Content 1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3183
+msgid "Content 2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3186
+msgid "Templates Parts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3189
+msgid "Section Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3192
+msgid "First Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3195
+msgid "Second Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3198
+msgid "Switcher Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3201
+msgid "Heading 1 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3204
+msgid "Heading 2 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3207
+msgid "Content 1 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3210
+msgid "Content 2 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3213
+msgid "Heading / Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3216
+msgid "Switcher"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3219
+msgid "Switch Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3222
+msgid "Round"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3225
+msgid "Square"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3228
+msgid "Label Box"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3231
+msgid "Switch Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3234
+msgid "Mini"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3237
+msgid "No template parts available in SeedProd"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3240
+msgid "Select Part"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3243
+msgid "Loading Template Parts..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3246
+msgid "Edit This Template Part"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3249
+msgid "Countdown Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3252
+msgid "Visitor Timer (Evergreen)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3255
+msgid "DateTime Countdown"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3258
+msgid "Set Timer For"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3261
+msgid "End Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3264
+msgid "End Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3267
+msgid "Timezone"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3270
+msgid "Action To Take On Expires"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3274
+msgid "Show Message"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3278
+msgid "Redirect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3282
+msgid "Message"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3287
+msgid "Redirect URL"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3290
+msgid "Customize Labels"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3293
+msgid "Day Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3296
+msgid "Hour Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3299
+msgid "Minute Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3302
+msgid "Second Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3305
+msgid "Hours"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3308
+msgid "Minutes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3311
+msgid "Seconds"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3314
+msgid "Hightlight Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3317
+msgid "Restart"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3320
+msgid "Starting Number"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3323
+msgid "Ending Number"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3326
+msgid "Number Prefix"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3329
+msgid "Number Suffix"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3332
+msgid "Animation Duration"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3335
+msgid "Thousands Separator"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3340
+msgid "Separator"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3343
+msgid "Dot"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3347
+msgid "Space"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3350
+msgid "Title Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3353
+msgid "Number Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3356
+msgid "Number Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3359
+msgid "Enter Your HTML"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3364
+msgid "Expand Editor"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3367
+msgid "Custom Code"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3370
+msgid "Edit Custom HMTL"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3373
+msgid "Device Visibility"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3376
+msgid "Hide on Desktop"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3379
+msgid "Hide on Mobile"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3382
+msgid "Z-Index"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3385
+msgid "Static"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3388
+msgid "Relative"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3391
+msgid "Absolute"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3394
+msgid "Sticky"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3397
+msgid "Offset"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3400
+msgid "Overflow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3405
+msgid "Visible"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3410
+msgid "Hidden"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3413
+msgid "Solid Line"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3416
+msgid "Double"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3423
+msgid "Height"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3427
+msgid "Icon Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3430
+msgid "Add Element"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3434
+msgid "HTML Tag"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3440
+msgid "H1"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3446
+msgid "H2"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3452
+msgid "H3"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3458
+msgid "H4"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3464
+msgid "span"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3467
+msgid "Please enter date/time format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3470
+msgid "Please select date/time format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3473
+msgid "Insert"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3480
+msgid "Cancel"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3483
+msgid "Dynamic Text Replacement"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3486
+msgid "DateTime"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3489
+msgid "Query Parameter"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3492
+msgid "Today"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3495
+msgid "Tomorrow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3498
+msgid "Today Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3501
+msgid "Tomorrow Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3504
+msgid "Month"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3507
+msgid "Next Month"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3510
+msgid "Year"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3513
+msgid "Select Date Time Format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3516
+msgid "Query Parameters"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3519
+msgid "Dynamic Text allows to create evergreen text. You can create date based dynamic text or pass in by query parameter. <a href=\"https://www.seedprod.com/docs/dynamic-text\" target=\"_blank\" class=\"sp-text-primary hover:sp-underline\">Learn More</a>"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3522
+msgid "Parameter Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3525
+msgid "Default Value"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3528
+msgid "Please enter parameter name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3531
+msgid "Don't see the date format you need? Click the Learn More link above to learn how to create any date."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3542
+msgid "Fields"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3554
+msgid "Field Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3566
+msgid "Field Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3578
+msgid "Field Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3589
+msgid "Field Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3600
+msgid "Row Spacing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3605
+msgid "Field Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3609
+msgid "These settings are used to style item quantity fields. To enable them, enable \"Misc\" &rarr; \"General\" &rarr; \"Cart Item Quantities\" in the Downloads Plugin settings. Also uncheck the \"Disable quantity input for this product\" checkbox in the item download page if it has been checked."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3614
+msgid "Direct To Checkout"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3618
+msgid "- Select ID -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3623
+msgid "Show Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3627
+msgid "Product ID"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3637
+msgid "Headers"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3648
+msgid "Buttons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3664
+msgid "Payment Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3674
+msgid "Light Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3684
+msgid "No Border Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3694
+msgid "Wide Border Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3704
+msgid "Inner Shadow Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3714
+msgid "Grey Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3724
+msgid "Dark Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3734
+msgid "Bottom Border Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3744
+msgid "Transparent Input Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3751
+msgid "One Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3758
+msgid "Two Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3767
+msgid "Label Font"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3777
+msgid "Button Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3785
+msgid "Cart Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3793
+msgid "Cart Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3796
+msgid "Product Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3805
+msgid "Font Family"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3808
+msgid "Price Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3815
+msgid "Header Font Family"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3818
+msgid "Total Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3821
+msgid "Links Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3828
+msgid "Alerts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3831
+msgid "Total Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3838
+msgid "Info Highlight Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3845
+msgid "Error Highlight Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3852
+msgid "Success Highlight Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3858
+msgid "Title Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3861
+msgid "Cart Item Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3864
+msgid "Cart Links Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3867
+msgid "Payments Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3870
+msgid "Payments Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3876
+msgid "Image Border"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3883
+msgid "Alt Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3895
+msgid "Bottom Drop Shadow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3906
+msgid "Image Whitespace Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3913
+msgid "No Follow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3919
+msgid "Header Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3923
+msgid "Query"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3929
+msgid "Columns"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3933
+msgid "All Products"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3957
+msgid "Include"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3961
+msgid "Exclude"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3965
+msgid "Include By"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3969
+msgid "Exclude By"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3973
+msgid "Term"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3979
+msgid "Order By"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3985
+msgid "Order"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3990
+msgid "Popularity"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3996
+msgid "Rating"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:3999
+msgid "If orderby is set to random, pagination will be disabled to prevent subsequent pages from showing already-displayed products."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4005
+msgid "Menu Order"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4011
+msgid "ASC"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4017
+msgid "DESC"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4025
+msgid "Alignment"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4031
+msgid "Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4038
+msgid "Price Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4044
+msgid "Button Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4050
+msgid "Image Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4056
+msgid "Image Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4059
+msgid "Number"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4065
+msgid "- Select Options -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4068
+msgid "Post Date(Default)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4073
+msgid "ID"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4078
+msgid "Pagination"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4081
+msgid "Current Page Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4086
+msgid "Random"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4091
+msgid "Link Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4094
+msgid "Relation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4097
+msgid "- Select Relation -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4101
+msgid "Select By Category"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4106
+msgid "- Select Categories -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4110
+msgid "Select By Tags"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4114
+msgid "- Select Tags -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4118
+msgid "Select By Group"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4122
+msgid "- Select Group -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4125
+msgid "OR"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4128
+msgid "AND"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4131
+msgid "Specify whether the downloads displayed have to be in ALL the categories/tags provided, or just in at least one."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4135
+msgid "Show Excerpt"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4138
+msgid "Show Full Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4142
+msgid "Include Selected Terms"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4146
+msgid "Exclude Selected Terms"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4150
+msgid "Include Selected Tags"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4154
+msgid "Exclude Selected Tags"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4159
+msgid "Include Selected Categories"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4163
+msgid "Exclude Selected Categories"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4166
+msgid "Show Buy Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4169
+msgid "Show Thumbnails"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4173
+msgid "Catalog"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4178
+msgid "Search"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4183
+msgid "Featured"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4187
+msgid "Custom Query"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4191
+msgid "Select By ID"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4195
+msgid "- Select ID(s) -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4199
+msgid "Show Items Count"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4203
+msgid "Show Order By"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4210
+msgid "Al Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4213
+msgid "Click to select an icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4216
+msgid "Search icons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4219
+msgid "Select a Font Weight"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4222
+msgid "Normal 400"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4225
+msgid "Bold 700"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4228
+msgid "Install Giveaway plugin:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4234
+msgid "Select a Giveway"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4237
+msgid "You can use RafflePress to build viral giveaways in minutes and explode your email list."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4240
+msgid "Select a Giveaway"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4243
+msgid "Need to make changes? Edit the selected giveaway."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4246
+msgid "+ New Giveaway"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4252
+msgid "Location"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4255
+msgid "Zoom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4258
+msgid "Height (px)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4261
+msgid "Width (%)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4267
+msgid "All Icons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4270
+msgid "Font Awesome"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4273
+msgid "Search icons..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4277
+msgid "Choose Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4280
+msgid "Icon Library"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4283
+msgid "Choose New Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4286
+msgid "Use Your"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4289
+msgid "Own Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4295
+msgid "or"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4298
+msgid "Stock Images Library"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4301
+msgid "Use a"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4304
+msgid "Stock Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4307
+msgid "Search images..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4310
+msgid "Link Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4313
+msgid "Custom Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4316
+msgid "Media - Lightbox"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4319
+msgid "Object Fit"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4322
+msgid "Fill"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4325
+msgid "Border Radius Unit"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4328
+msgid "Bulk Actions"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4332
+msgid "Apply"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4335
+msgid "items"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4338
+msgid "No items found."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4341
+msgid "Select bulk action"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4348
+msgid "Dismiss this message"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4355
+msgid "Get SeedProd Lite and Unlock all the Powerful Features"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4359
+msgid ""
+"Thanks for being a loyal SeedProd Lite user. Upgrade to\n"
+"SeedProd Lite to unlock all the awesome features and\n"
+"experience why SeedProd is the best WordPress landing\n"
+"page plugin."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4369
+msgid "Pro Features:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4374
+msgid "Drag & Drop Page Builder"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4379
+msgid "80+ PRO Page Blocks"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4383
+msgid "PRO Email Marketing Integrations"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4389
+msgid "Custom 404 Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4394
+msgid "Page Access Controls"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4399
+msgid "200+ PRO Page Templates"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4404
+msgid "PRO Smart Sections"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4409
+msgid "Email Subscriber Management"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4416
+msgid "Saved Templates"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4423
+msgid "Plus much more..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4430
+msgid "Bonus:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4437
+msgid "SeedProd Lite users get"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4444
+msgid "a discount off the regular price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4451
+msgid "automatically applied at checkout."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4458
+msgid "Get SeedProd Lite Today and Unlock all the Powerful Features »"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4461
+msgid "Filter by Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4464
+msgid "Export to a CSV File"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4467
+msgid "Premium Email Marketing Integrations"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4470
+msgid "Subscribers Over Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4473
+msgid "See Name and Emails"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4476
+msgid "More Premium Blocks"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4479
+msgid "Capture Emails and Leads"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4482
+msgid "Marketing & CRM Integrations"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4485
+msgid "Maintenance Access Controls"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4488
+msgid "Growing Library of Templates"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4491
+msgid "Smart Sections"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4494
+msgid "More Design Controls"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4497
+msgid "Coming Soon Access Controls"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4500
+msgid "Label for User field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4503
+msgid "Placeholder for User field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4506
+msgid "Label for Password field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4509
+msgid "Placeholder for Password field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4512
+msgid "Link Hover Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4515
+msgid "Label Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4518
+msgid "Button Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4521
+msgid "Field Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4524
+msgid "Label Spacing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4527
+msgid "Field Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4531
+msgid "Success Action"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4534
+msgid "Additional Options"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4537
+msgid "Remember User Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4540
+msgid "Lost Password Link Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4545
+msgid "Colors"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4548
+msgid "Label Font Weight"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4551
+msgid "Field Font"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4554
+msgid "Field Font Weight"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4558
+msgid "Button Font"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4561
+msgid "Button Font Weight"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4564
+msgid "Logged In Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4567
+msgid "This text displays in place of a form if the user is already logged in. {user} will be replaced by the user's display name."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4570
+msgid "(e.g. 'Remember Me')"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4573
+msgid "(e.g. 'Lost your password?')"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4576
+msgid "Button Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4579
+msgid "Label Text Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4582
+msgid "Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4585
+msgid "Hide on Empty"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4588
+msgid "Show Subtotal"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4591
+msgid "Badge Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4594
+msgid "Badge Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4597
+msgid "default header"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4600
+msgid "default body"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4603
+msgid "URL Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4606
+msgid "Mobile Menu"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4609
+msgid "On"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4612
+msgid "Off"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4615
+msgid "Hover Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4618
+msgid "Menu Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4621
+msgid "WordPress Menu"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4624
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4627
+msgid "Sub Menu Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4630
+msgid "Sub Menu Line Height"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4633
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4636
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4639
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4642
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4645
+msgid "Sub Menu"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4648
+msgid "Menus"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4652
+msgid "Go to the"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4655
+msgid "Menus Screen"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4658
+msgid "to manage your menus"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4661
+msgid "There are no menus in your site."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4664
+msgid "Submit Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4670
+msgid "Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4673
+msgid "Required"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4676
+msgid "Input Sizes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4679
+msgid "Action To Take"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4682
+msgid "Remove Inline Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4685
+msgid "Button text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4688
+msgid "All emails captured can be seen on the <a href=\"admin.php?page=seedprod_lite#/subscribers/0\" class=\"sp-text-primary\">Subscribers Page</a>. Click the <strong>Connect</strong> tab on the top menu to send your emails to the email service provider of your choice."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4691
+msgid "Enable Particle Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4694
+msgid "Particle Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4697
+msgid "Polygon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4700
+msgid "Snow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4703
+msgid "Snowflakes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4706
+msgid "Christmas"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4709
+msgid "Halloween"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4712
+msgid "Opacity"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4715
+msgid "Flow Direction"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4718
+msgid "Advanced Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4721
+msgid "Number of Particles"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4724
+msgid "Particle Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4727
+msgid "Move Speed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4730
+msgid "Enable Hover Effect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4733
+msgid "Add custom JSON for the Particle Background. Please follow below steps:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4736
+msgid "- Please visit this link "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4739
+msgid "here"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4742
+msgid " and choose required attributes for particle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4745
+msgid "- Once a custom style is created, download JSON from \"Download current config (json)\" link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4748
+msgid "- Copy JSON code and paste below."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4751
+msgid "Particle hover effect will not work in the following scenarios:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4754
+msgid "- In the builder area."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4757
+msgid "- Content added in the section occupies the entire space and leaves it inaccessible."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4760
+msgid "Note: Increasing the number of particles can slow down your page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4763
+msgid "Profile Picture"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4766
+msgid "Display Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4769
+msgid "Biography"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4774
+msgid "div"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4779
+msgid "p"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4782
+msgid "Website"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4785
+msgid "Archive Posts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4790
+msgid "Name Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4793
+msgid "Biography Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4796
+msgid "Profile Screen"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4799
+msgid "to manage your profile."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4802
+msgid "Content Policy"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4805
+msgid "Author"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4808
+msgid "Comments"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4812
+msgid "Avatar"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4815
+msgid "Link to Author"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4819
+msgid "Layout Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4823
+msgid "Add Item"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4827
+msgid "Caption"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4830
+msgid "Date Format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4833
+msgid "May 14, 2021 (F j, Y)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4836
+msgid "2021-05-14 (Y-m-d)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4839
+msgid "05/14/2021 (m/d/Y)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4842
+msgid "14/05/2021 (d/m/Y)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4845
+msgid "Custom Date Format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4848
+msgid "Use the letters: l D d j S F m M n Y y"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4851
+msgid "Modified Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4854
+msgid "Modified Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4858
+msgid "Tags"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4862
+msgid "Category"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4865
+msgid "Terms"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4868
+msgid "Time Format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4871
+msgid "9:15 am (g:i a)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4874
+msgid "9:15 AM (g:i A)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4877
+msgid "09:15 (H:i)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4880
+msgid "Custom Time Format"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4883
+msgid "Use the letters: g G H i a A"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4886
+msgid "Show Icons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4889
+msgid "Posts Query"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4892
+msgid "Query Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4895
+msgid "Manual"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4898
+msgid "Query By Post Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4901
+msgid "Include Selected Post Type(s)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4904
+msgid "- Select Post Type(s) -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4907
+msgid "Query By Category"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4910
+msgid "Query By Tag(s)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4913
+msgid "Include Selected Tag(s)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4916
+msgid "- Select Tag(s) -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4919
+msgid "Query By Author(s)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4922
+msgid "Include Selected Author(s)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4925
+msgid "- Select Author(s) -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4928
+msgid "Date Last Modified"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4931
+msgid "Comment Count"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4935
+msgid "Autoplay Speed"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4938
+msgid "Slides to Show"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4942
+msgid "seconds"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4946
+msgid "AutoPlay"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4950
+msgid "Pause On Hover"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4953
+msgid "Query Params"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4956
+msgid "Number Per Pages"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4959
+msgid "Show Feature Image"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4962
+msgid "Show Title"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4965
+msgid "Show Meta"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4968
+msgid "Show Date Modified"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4971
+msgid "Show Author"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4974
+msgid "Show Date"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4977
+msgid "Show Time"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4980
+msgid "Show Comment Count"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4983
+msgid "Excerpt Length"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4986
+msgid "Show Read More"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4989
+msgid "Meta Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4992
+msgid "Meta Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4995
+msgid "Excerpt"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:4998
+msgid "Excerpt Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5001
+msgid "Read More Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5004
+msgid "Read More Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5007
+msgid "Pagination Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5010
+msgid "Space Bottom"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5013
+msgid "Post Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5016
+msgid "Image Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5019
+msgid "Skin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5022
+msgid "Classic"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5025
+msgid "Card"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5028
+msgid "Full Content"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5031
+msgid "Badge"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5034
+msgid "Badge Taxonomy"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5037
+msgid "Grid"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5040
+msgid "Carousel"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5043
+msgid "Masonry"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5046
+msgid "Creative"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5049
+msgid "Minimal"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5052
+msgid "Business News"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5057
+msgid "Image Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5060
+msgid "Bottom Spacing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5063
+msgid "Taxonomy"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5066
+msgid "Navigation Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5069
+msgid "Navigation Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5072
+msgid "Navigation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5075
+msgid "Arrows and Dots"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5078
+msgid "Arrows"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5081
+msgid "Dots"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5084
+msgid "Image Height"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5087
+msgid "Post Background Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5090
+msgid "Divider Border Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5093
+msgid "Content Area"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5096
+msgid "Content Area Border"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5099
+msgid "Post"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5102
+msgid "Left Layout Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5105
+msgid "Right Layout Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5108
+msgid "No Image Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5111
+msgid "Price List Items"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5114
+msgid "Overall Alignment"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5117
+msgid "Vertical Alignment"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5120
+msgid "Enter Title"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5123
+msgid "Enter Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5126
+msgid "Actual Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5129
+msgid "Offering Discount?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5132
+msgid "Title Price Seperator"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5135
+msgid "Link Complete Box"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5138
+msgid "Price Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5141
+msgid "Below Heading and Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5144
+msgid "Right of Heading"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5147
+msgid "Discount Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5151
+msgid "Image Area"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5155
+msgid "Shape"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5159
+msgid "Rounded"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5163
+msgid "Circle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5166
+msgid "Features List"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5169
+msgid "Plan Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5172
+msgid "Currency Symbol"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5175
+msgid "Plan Name Typography"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5178
+msgid "Plan Name Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5181
+msgid "Top Button Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5184
+msgid "Top Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5187
+msgid "Bottom Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5190
+msgid "Top Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5193
+msgid "Top Button Before Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5196
+msgid "Top Button After Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5199
+msgid "Regular Price Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5202
+msgid "Top Button Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5205
+msgid "Bottom Button Border Radius"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5208
+msgid "$ Dollar"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5211
+msgid "€ Euro"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5214
+msgid "฿ Baht"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5217
+msgid "₣ Franc"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5220
+msgid "ƒ Guilder"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5223
+msgid "kr Krona"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5226
+msgid "₤ Lira"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5229
+msgid "₧ Peseta"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5232
+msgid "₱ Peso"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5235
+msgid "£ Pound Sterling"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5238
+msgid "R$ Real"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5241
+msgid "₽ Ruble"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5244
+msgid "₨ Rupee"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5247
+msgid "₹ Rupee (Indian)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5250
+msgid "₪ Shekel"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5253
+msgid "¥ Yen/Yuan"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5256
+msgid "₩ Won"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5259
+msgid "Custom Symbol"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5262
+msgid "Period"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5265
+msgid "Show Regular Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5268
+msgid "Regular Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5271
+msgid "Regular Price Label"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5274
+msgid "Show Top Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5277
+msgid "Top Button Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5280
+msgid "Top Button Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5283
+msgid "Show Bottom Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5286
+msgid "Bottom Button Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5289
+msgid "Bottom Button Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5292
+msgid "Top Button Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5295
+msgid "Features List Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5298
+msgid "Bottom Button Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5301
+msgid "Bottom Button Size"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5304
+msgid "Bottom Button Before Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5307
+msgid "Bottom Button After Text Icon"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5310
+msgid "Price Superscript"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5313
+msgid "Price Superscript Top"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5316
+msgid "Block"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5319
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5322
+msgid "Before"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5325
+msgid "After"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5329
+msgid "Tab"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5333
+msgid "Panel"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5337
+msgid "Heading"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5346
+msgid "Heading Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5350
+msgid "Panel Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5353
+msgid "Zoom Button"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5356
+msgid "Position Right"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5359
+msgid "Position Top"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5362
+msgid "View"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5365
+msgid "Table"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5370
+msgid "Stacked"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5373
+msgid "Inline"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5376
+msgid "Sale Price"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5379
+msgid "Posts Per Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5383
+msgid "Sale Badge Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5389
+msgid "Bar Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5392
+msgid "Percent"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5395
+msgid "My Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5400
+msgid "Drag a new block here"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5406
+msgid "Choose your layout:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5409
+msgid "Enter a new block template name:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5415
+msgid "Save Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5418
+msgid "Column Gutter"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5421
+msgid "Row Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5425
+msgid "Full Screen"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5429
+msgid "Fixed Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5433
+msgid "Content Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5437
+msgid "Enter a new section template name:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5440
+msgid "Section Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5443
+msgid "Powerful Page Editor"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5446
+msgid "Email Marketing Integrations"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5449
+msgid "Access Controls"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5452
+msgid "Subscriber Management"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5455
+msgid "Spread"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5458
+msgid "Outline"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5461
+msgid "Inset"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5464
+msgid "Mountains"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5467
+msgid "Drops"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5470
+msgid "Clouds"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5473
+msgid "Zigzag"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5476
+msgid "Pyramids"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5479
+msgid "Triangle"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5482
+msgid "Triangle Asymmetrical"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5485
+msgid "Tilt"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5488
+msgid "Tilt Opacity"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5491
+msgid "Fan Opacity"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5494
+msgid "Curve"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5497
+msgid "Curve Asymmetrical"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5500
+msgid "Waves"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5503
+msgid "Waves Brush"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5506
+msgid "Waves Pattern"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5509
+msgid "Arrow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5512
+msgid "Split"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5515
+msgid "Book"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5518
+msgid "Invert"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5521
+msgid "Bring to Front"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5527
+msgid "Show Shortcode Preview"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5531
+msgid "Select a Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5535
+msgid "Facebook"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5539
+msgid "Twitter"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5543
+msgid "LinkedIn"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5547
+msgid "Pinterest"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5551
+msgid "YouTube"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5554
+msgid "Instagram"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5557
+msgid "Snapchat"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5560
+msgid "WordPress"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5563
+msgid "Github"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5566
+msgid "SoundCloud"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5569
+msgid "RSS"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5572
+msgid "URL (Include https:// for web links)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5576
+msgid "Icon Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5579
+msgid "Phone"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5582
+msgid "Discord"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5585
+msgid "Telegram"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5588
+msgid "Facebook Messenger"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5591
+msgid "Slack"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5594
+msgid "Vimeo"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5597
+msgid "Weibo"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5600
+msgid "Whatsapp"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5603
+msgid "TikTok"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5609
+msgid "Add New Share"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5612
+msgid "Tweet Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5621
+msgid "Star Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5624
+msgid "Empty Star Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5627
+msgid "Payment Setup"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5630
+msgid "Amount"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5633
+msgid "Payment Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5636
+msgid "Payment Currency"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5639
+msgid "Success URL"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5642
+msgid "Show Designation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5645
+msgid "Show Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5648
+msgid "PX"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5651
+msgid "%"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5654
+msgid "Below Name"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5657
+msgid "Below Designation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5660
+msgid "Below Description"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5663
+msgid "Thickness"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5666
+msgid "Social Icons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5669
+msgid "Designation Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5672
+msgid "Designation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5675
+msgid "Social Icon Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5678
+msgid "Seperator Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5681
+msgid "Designation Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5684
+msgid "Name Align"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5687
+msgid "Templatetag"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5690
+msgid "Show Templatetag Preview"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5693
+msgid "Select Type"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5696
+msgid "Add Testimonial"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5699
+msgid "Navigation Color Mode"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5702
+msgid "Dark"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5705
+msgid "Light"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5708
+msgid "Testimonial to Show"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5711
+msgid "Enable Comment Bubble"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5714
+msgid "Bubble Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5717
+msgid "Visual Editor"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5720
+msgid "Edit HTML"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5723
+msgid "Typography"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5726
+msgid "Line Height"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5729
+msgid "Letter Spacing"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5732
+msgid "Letter Case"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5740
+msgid "YouTube URL"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5743
+msgid "Custom Video Code"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5746
+msgid "Limit"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5749
+msgid "Select By SKU"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5752
+msgid "- Select SKU(s) -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5755
+msgid "On Sale"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5758
+msgid "Best Selling"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5761
+msgid "Top Rated"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5764
+msgid "Query By Attribute"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5767
+msgid "- Select Attribute -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5770
+msgid "- Select Attribute Terms -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5773
+msgid "Select By Visibility"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5776
+msgid "- Select Product Visibility -"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5779
+msgid "(Click 'Apply' on the Widget Settings to see changes)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5782
+msgid "Widget Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5785
+msgid "Heading Bottom Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5788
+msgid "Column Uploaded successfully."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5791
+msgid "There is no content available to paste. Please try copy row first!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5794
+msgid "Image uploading will take some time."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5797
+msgid "Row Uploaded successfully."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5800
+msgid "Block Copied."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5803
+msgid "Column Copied."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5806
+msgid "Row Copied."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5809
+msgid "Section Copied."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5814
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5819
+msgid "Yes, delete it!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5822
+msgid "Visit Docs&nbsp;<i class=\"fas fa-external-link-alt\"></i>"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5825
+msgid " is a PRO Feature"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5828
+msgid " feature is not available on your plan. Please upgrade to the PRO plan to unlock all these awesome features."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5831
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5834
+msgid "<strong>Bonus:</strong>&nbsp;SeedProd Lite users get a discount off the regular price, automatically applied at checkout."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5837
+msgid "Thanks for your interest in SeedProd Lite!<br>If you have any questions or issues just <a href='https://www.seedprod.com/?contact=1' target='_blank'>let us know</a>.<br><br>After purchasing SeedProd Lite, you'll need to download and install the Pro version of the plugin, and then remove the free plugin. <br><br>(Don't worry, all your settings will be preserved.)"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5840
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5843
+msgid "Increase traffic, engagement, and get more email subscribers. Click below to learn more about all our awesome features."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5846
+msgid "Upgrade to Unlock "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5849
+msgid "We're sorry, the "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5852
+msgid " feature is not available on your plan. Please upgrade your plan to unlock this feature and more!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5855
+msgid "Upgrade with just a click of a button!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5858
+msgid "There is no content available to paste. Please try copy section first!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5861
+msgid "Section Uploaded successfully."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5864
+msgid "Block Uploaded successfully."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5869
+msgid "Editing:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5872
+msgid "Global CSS Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5876
+msgid "Header Font"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5880
+msgid "Body Text Font"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5883
+msgid "Use Video Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5887
+msgid "The video background will not be displayed on mobile devices or in the editor preview."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5891
+msgid "Play on auto-loop"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5895
+msgid "Enter your custom css below"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5899
+msgid "Edit Custom CSS"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5903
+msgid "Font Themes Library"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5907
+msgid "Search colors..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5911
+msgid "Search fonts..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5915
+msgid "Links"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5919
+msgid "Font Themes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5923
+msgid "Color Palettes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5927
+msgid "Fonts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5931
+msgid "Custom CSS"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5935
+msgid "All Palettes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5939
+msgid "All Themes"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5943
+msgid "Serif"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5947
+msgid "Sans Serif"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5951
+msgid "Background Slideshow"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5955
+msgid "Slideshow Images"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5959
+msgid "Add New Slide"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5963
+msgid "The background slideshow will not be shown in the editor preview. The slides will only be displayed in the live preview."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5966
+msgid "Add Custom Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5969
+msgid "Body Text Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5972
+msgid "Show H1 - H6 Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5975
+msgid "H1 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5978
+msgid "H1 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5981
+msgid "H2 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5984
+msgid "H2 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5987
+msgid "H3 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5990
+msgid "H3 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5993
+msgid "H4 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5996
+msgid "H4 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:5999
+msgid "H5 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6002
+msgid "H5 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6005
+msgid "H6 "
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6008
+msgid "H6 Color"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6011
+msgid "Body Text"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6014
+msgid "Desktop BG"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6017
+msgid "Mobile BG"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6020
+msgid "Row Default Max Width"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6023
+msgid "Forms"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6026
+msgid "Field"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6029
+msgid "Field Border Style"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6032
+msgid "Field Padding"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6035
+msgid "Header Default Bottom Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6038
+msgid "Paragraph Default Bottom Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6041
+msgid "Label Default Bottom Margin"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6044
+msgid "Ask a question or search the docs..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6047
+msgid "No docs found"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6050
+msgid "View Documentation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6053
+msgid "Browse documentation, reference material, and tutorials for SeedProd."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6056
+msgid "View All Documentation"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6059
+msgid "Get Support"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6062
+msgid "Submit a ticket and our world class support team will be in touch soon."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6065
+msgid "Submit a Support Ticket"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6068
+msgid "Upgrade to SeedProd Lite to access our world class customer support"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6071
+msgid "Upgrade to SeedProd Lite"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6074
+msgid "Expand All"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6077
+msgid "Collapse All"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6080
+msgid "Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6083
+msgid "Add Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6086
+msgid "Duplicate Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6089
+msgid "Save Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6092
+msgid "Delete Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6095
+msgid "Copy Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6098
+msgid "Paste Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6101
+msgid "Add Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6104
+msgid "Duplicate Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6107
+msgid "Delete Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6110
+msgid "Copy Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6113
+msgid "Paste Row"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6116
+msgid "Add Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6119
+msgid "Duplicate Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6122
+msgid "Delete Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6125
+msgid "Copy Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6128
+msgid "Paste Column"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6131
+msgid "Duplicate Block"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6134
+msgid "Delete Block"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6137
+msgid "Copy Block"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6140
+msgid "Paste Block"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6143
+msgid "Loading Revisons"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6146
+msgid "Click to preview version:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6149
+msgid "Current Version"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6152
+msgid "by"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6155
+msgid "There are no revisons to show."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6158
+msgid "ago"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6161
+msgid "Choose This Section"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6165
+msgid "Deleted!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6168
+msgid "All Sections"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6171
+msgid "Favorites"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6174
+msgid "Categories:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6178
+msgid "Blocks"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6182
+msgid "Sections"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6186
+msgid "Access Control"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6189
+msgid "Exclude Default:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6192
+msgid "By default we exclude urls with the terms: login, admin, dashboard and account to prevent lockouts."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6195
+msgid "Bypass Cookie:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6198
+msgid "Use cookies instead of creating a WordPress user for the bypass. Note: this may not work on sites that are cached. Learn More"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6201
+msgid "Bypass URL:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6204
+msgid "Bypass URL Expires:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6207
+msgid "Access by IP:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6210
+msgid "Access by Role:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6213
+msgid "By default anyone logged in will see the regular website and not the coming soon page. To override this select Roles that will be given access to see the regular website."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6216
+msgid "Include/Exclude URLs:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6219
+msgid "Show on the Entire Website"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6222
+msgid "Show on the Entire Website except for the Blog"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6225
+msgid "Show on the Home Page Only"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6228
+msgid "Include URLs"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6231
+msgid "Exclude URLs"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6234
+msgid "By default the Coming Soon/Maintenance page is shown on every page. Use the 'Show on the Home Page Only' option to only show on the home page. Alternatively Include or Exclude URLs."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6237
+msgid "Enter a phrase above and give your visitors a secret url that will allow them to bypass the Coming Soon page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6240
+msgid "After the bypass url expires the user will need to revisit the bypass url to regain access."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6243
+msgid "One IP Address per line"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6246
+msgid "All visitors from certain IP's to bypass the Coming Soon page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6249
+msgid "Put each IP on it's own line. Your current IP is:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6252
+msgid "Add Role"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6255
+msgid "Include certain urls to display the Coming Soon or Maintenance Page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6258
+msgid "One per line. You may also enter a page or post id."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6261
+msgid "Exclude certain urls to display the Coming Soon or Maintenance Page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6264
+msgid "Example: /about-us/"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6268
+msgid "Analytics"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6271
+msgid "Your Analytics settings are being managed by:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6274
+msgid "Edit Analytics Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6278
+msgid "Your SEO settings are being managed by:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6281
+msgid "Install Google Analytics plugin:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6284
+msgid "Install MonsterInsights"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6287
+msgid "Activate MonsterInsights"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6290
+msgid "Install Analytics plugin:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6294
+msgid "Custom Domain"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6297
+msgid "Custom Domain:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6300
+msgid "OFF"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6303
+msgid "ON"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6306
+msgid "Domain Name:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6309
+msgid "Please enter your domain."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6312
+msgid "Click here to learn more"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6315
+msgid "how to map your custom domain."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6318
+msgid "Force HTTPS"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6321
+msgid "Only enable this if you have an SSL certificate installed and you wish to redirect users to https://"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6324
+msgid "Please enter a valid URL that will be pointed to this landing page, such as"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6327
+msgid "It should look something like, 'mynewdomain.com' or 'mynewdomain.com/coming-soon'"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6330
+msgid "You can leave out the 'http://'. If you are using 'https://', turn on Force HTTPS below."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6333
+msgid "Page Title:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6337
+msgid "Page URL:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6340
+msgid "Page Status:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6343
+msgid "Draft"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6347
+msgid "Publish"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6350
+msgid "\"Powered by SeedProd\""
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6353
+msgid "Choose New Template:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6356
+msgid "Redirect Mode"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6359
+msgid "Redirect URL: A temporary redirect (302 status) will be created to the url entered."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6362
+msgid "Enable"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6365
+msgid "Redirect URL: A permanent redirect (301 status) will be created to the url entered."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6368
+msgid "SeedProd Link"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6371
+msgid "Enter Your Affiliate URL and Make Money with SeedProd"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6374
+msgid "Join our affiliate program"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6377
+msgid "and get a 20% commission on all sales generated from your powered by link."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6380
+msgid "Isolation Mode"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6383
+msgid "Redirect the Default Login Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6386
+msgid "Facebook App ID:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6390
+msgid "SEO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6393
+msgid "Yoast SEO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6396
+msgid "Edit this page's SEO Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6399
+msgid "Install All In One SEO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6402
+msgid "Activate All in One SEO"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6405
+msgid "Install SEO plugin:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6409
+msgid "Scripts"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6412
+msgid "Header Scripts:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6415
+msgid "This code will be rendered before the closing &lt;/head&gt; tag."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6418
+msgid "Footer Scripts:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6421
+msgid "The code will be rendered before the closing &lt;/body&gt; tag."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6424
+msgid "Body Scripts:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6427
+msgid "The code will be rendered after the &lt;body&gt; tag."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6430
+msgid "You do not have the proper WordPress permissions to add scripts."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6433
+msgid "Design"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6436
+msgid "Connect"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6439
+msgid "Page Settings"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6442
+msgid "You have unsaved changes. Are you sure you want to lose these changes?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6445
+msgid "Exit Without Saving"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6448
+msgid "template has been saved!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6451
+msgid "You can find it in your template library when you create a new landing page."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6454
+msgid "Enter a new template name:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6457
+msgid "Your page has been published!"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6460
+msgid "Unpublish"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6463
+msgid "Schedule"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6466
+msgid "Save as Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6469
+msgid "Return to Page Editor"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6472
+msgid "See Live Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6475
+msgid "Save and Exit"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6478
+msgid "Help"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6481
+msgid "Save"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6484
+msgid "You are about to leave this page and go to the Global CSS page. Continue?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6487
+msgid "This page is not active. Would you like to activate it now?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6490
+msgid "Yes, Activate"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6493
+msgid "No, Close"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6496
+msgid "Coming Soon Mode is not active. Would you like to activate it now and show this page to visitors?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6499
+msgid "Maintenance Mode is not active. Would you like to activate it now and show this page to visitors?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6502
+msgid "Note: This page will only be shown to users who are logged out. If you logged out and and do not see the correct page you may need to clear your site cache."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6505
+msgid "This page is not published. Would you like to publish it now?"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6508
+msgid "Yes, Publish"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6511
+msgid "Something has prevented the page from being saved."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6514
+msgid "Standard"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6517
+msgid "Saved Blocks"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6520
+msgid "Search blocks..."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6523
+msgid "Widgets"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6526
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6529
+msgid "Video Background"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6532
+msgid "&larr; Go Back"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6535
+msgid "&larr; Go to Dashboard"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6538
+msgid "Choose a New Page Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6541
+msgid "No Favorited Templates Found"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6544
+msgid "No Saved Templates Found"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6547
+msgid "Choose This Template"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6550
+msgid "Enter your new page details"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6553
+msgid "You can always change it later in Page Settings."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6556
+msgid "Page Name:"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6559
+msgid "Save and Start Editing the Page"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6562
+msgid "My Landing Page name goes here"
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6565
+msgid "You can favorite any template by clicking the heart icon under the page template."
+msgstr ""
+
+#: build/coming-soon/languages/seedprod-lite.php:6568
+msgid "You can save pages as templates in the builder. Any saved pages will be shown here."
+msgstr ""
+
+#: build/coming-soon/app/backwards/csp4-functions.php:10
+msgid "Please enter your settings."
+msgstr ""
+
+#: build/coming-soon/app/includes/skin.php:82, build/coming-soon/app/includes/skin53.php:82
+msgid "There was an error installing the addon. Please try again."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:11
+msgid "You are not allowed to install plugins."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:24, build/coming-soon/app/includes/upgrade.php:158
+msgid "You are not licensed."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:43
+msgid "Pro version is already installed."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:89
+msgid "Could not install upgrade. Please download from seedprod.com and install manually."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:121, build/coming-soon/app/includes/upgrade.php:127, build/coming-soon/app/includes/upgrade.php:178
+msgid "Plugin installed & activated."
+msgstr ""
+
+#: build/coming-soon/app/includes/upgrade.php:182
+msgid "Pro version installed but needs to be activated from the Plugins page inside your WordPress admin."
+msgstr ""
+
+#: build/coming-soon/resources/views/debug.php:1
+msgid "System Information"
+msgstr ""
+
+#: build/coming-soon/resources/views/debug.php:27
+msgid "Debug Tools"
+msgstr ""

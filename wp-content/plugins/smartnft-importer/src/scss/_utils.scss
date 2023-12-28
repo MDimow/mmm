@@ -1,0 +1,76 @@
+.smartnft_importer_container {
+  max-width: var(--si-container-width);
+  margin: auto;
+  padding: 21px 28px 50px 103px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid rgba(55, 65, 81, 0.14);
+}
+
+.mb-big {
+  margin-bottom: 45px !important;
+}
+
+.mb-small {
+  margin-bottom: 16px !important;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+.btn-normal {
+  font-size: 14px;
+  line-height: 26px;
+  font-weight: 600;
+  text-align: center;
+  color: #fff;
+  padding: 4px 28px;
+  background-color: #37b34a;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+.right-align {
+  justify-content: end;
+}
+.next-btn {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  color: #374151;
+}
+.steps-content {
+  min-height: 200px;
+  margin-top: 16px;
+  padding: 40px;
+  background-color: #fafafa;
+  border: 1px dashed #e9e9e9;
+  border-radius: 2px;
+}
+
+.steps-action {
+  margin-top: 24px;
+}
+
+#smartnft-importer-root {
+  .pagination img {
+    width: 26px;
+    height: 26px;
+    background: #eaeaea;
+    padding: 4px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+  }
+  .pagination span {
+    padding: 8px;
+  }
+}
+.nft-list__table td {
+  max-width: 200px;
+}

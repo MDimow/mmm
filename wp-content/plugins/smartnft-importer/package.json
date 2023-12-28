@@ -1,0 +1,58 @@
+{
+  "name": "smart-nft-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack  --mode development -w",
+    "build-webpack": "webpack  --mode production ",
+    "watch-sass-frontend": "node-sass src/front-main.scss assets/css/front-style.css -w",
+    "compile-sass-frontend": "node-sass src/front-main.scss assets/css/front-style.comp.css",
+    "concat-css-frontend": "concat -o assets/css/front-style.concat.css assets/css/front-style.comp.css",
+    "prefix-css-frontend": "postcss --use autoprefixer -b 'last 10 versions' assets/css/front-style.concat.css -o assets/css/front-style.prefix.css",
+    "compress-css-frontend": "node-sass assets/css/front-style.prefix.css assets/css/front-style.css --output-style compressed",
+    "watch-sass-backend": "node-sass src/backend-main.scss assets/css/backend-style.css -w",
+    "compile-sass-backend": "node-sass src/backend-main.scss assets/css/backend-style.comp.css",
+    "concat-css-backend": "concat -o assets/css/backend-style.concat.css assets/css/backend-style.comp.css",
+    "prefix-css-backend": "postcss --use autoprefixer -b 'last 10 versions' assets/css/backend-style.concat.css -o assets/css/backend-style.prefix.css",
+    "compress-css-backend": "node-sass assets/css/backend-style.prefix.css assets/css/backend-style.css --output-style compressed",
+    "build-css-frontend": "npm-run-all compile-sass-frontend concat-css-frontend prefix-css-frontend compress-css-frontend",
+    "build-css-backend": "npm-run-all compile-sass-backend concat-css-backend prefix-css-backend compress-css-backend",
+    "build-css": "npm-run-all build-css-frontend build-css-backend",
+    "generate-deploy-code": "node scripts/build.js",
+    "start": "npm-run-all --parallel  webpack watch-sass-frontend watch-sass-backend",
+    "build": "npm-run-all -s build-webpack build-css generate-deploy-code"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@wordpress/escape-html": "^2.21.0",
+    "antd": "^4.24.1",
+    "css-loader": "^6.7.1",
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-react": "^7.18.6",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "autoprefixer": "^10.4.8",
+    "babel-loader": "^8.2.5",
+    "concat": "^1.0.3",
+    "hardhat": "^2.12.1",
+    "node-sass": "^7.0.1",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^9.1.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}

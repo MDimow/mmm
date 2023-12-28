@@ -1,0 +1,1 @@
+wp.hooks.addFilter("SMNFT_RENDER_ERC20_IMPORT_OR_DEPLOY_ITEM","SNFT_ERC20",(function(_,E){return E.component}),10);

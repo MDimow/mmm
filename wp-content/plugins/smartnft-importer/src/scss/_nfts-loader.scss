@@ -1,0 +1,23 @@
+.nfts-loader-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(3, 130px);
+  row-gap: 20px;
+  column-gap: 20px;
+
+  figure {
+    height: 85%;
+    margin: 0;
+    background: #ddd;
+    border-radius: 4px;
+  }
+  p {
+    margin: 0;
+    width: 100%;
+    display: block;
+    height: 15px;
+    margin-top: 5px;
+    border-radius: 4px;
+    background: #ddd;
+  }
+}

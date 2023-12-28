@@ -1,0 +1,219 @@
+.meta__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h2 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  p {
+    margin: 0;
+  }
+  button {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #555;
+    background: #fff;
+    text-align: center;
+  }
+}
+
+#nft-bulk-minting {
+  .meta__input {
+    &__fields {
+      display: grid;
+      grid-template-columns: 1fr 1fr 110px 20px;
+      align-items: center;
+      column-gap: 20px;
+      &.labels,
+      &.stats {
+        grid-template-columns: 2fr 1fr 1fr 110px 20px;
+      }
+
+      img {
+        width: 15px;
+        margin-top: 0px;
+        cursor: pointer;
+      }
+    }
+
+    label input {
+      margin-bottom: 0;
+      border: 1px solid #ddd;
+      padding: 4px 10px;
+      width: 100%;
+    }
+
+    label span {
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    button {
+      border: 1px solid #ddd;
+      padding: 10px 20px;
+      font-size: 14px;
+      border-radius: 5px;
+      cursor: pointer;
+      color: #000;
+      font-weight: 600;
+      margin-top: 0px;
+      height: 38px;
+    }
+  }
+
+  .traits {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .trait {
+      border: 1px solid #005bf0;
+      padding: 10px 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      border-radius: 8px;
+      background: #005bf017;
+      margin: 0px 20px 20px 0px;
+      position: relative;
+
+      &:hover {
+        & img {
+          display: block;
+        }
+      }
+
+      img {
+        width: 12px;
+        position: absolute;
+        top: 4px;
+        right: 7px;
+        cursor: pointer;
+        display: none;
+        transition: all 0.3s;
+      }
+
+      p {
+        margin-bottom: 2px;
+        font-size: 16px;
+        color: #005bf0;
+        text-transform: uppercase;
+      }
+      h3 {
+        margin: 0;
+        font-size: 16px;
+        font-weight: 400;
+      }
+    }
+  }
+}
+
+.trait-progresses {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 20px;
+  column-gap: 30px;
+  transition: all 0.5s;
+
+  .progress {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    column-gap: 10px;
+    transition: all 0.5s;
+
+    &:hover {
+      grid-template-columns: 1fr 20px;
+      transition: all 0.5s;
+
+      & > img {
+        display: block;
+      }
+    }
+
+    & > img {
+      width: 14px;
+      display: none;
+      margin-top: 26px;
+      cursor: pointer;
+    }
+
+    &__flex {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      p {
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 14px;
+      }
+    }
+
+    &__outer {
+      position: relative;
+      height: 20px;
+      width: 100%;
+      border-radius: 8px;
+      background-color: #ddd;
+    }
+
+    &__inner {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 20px;
+      background-color: #005bf0;
+      border-radius: 8px;
+    }
+  }
+}
+
+.trait-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 20px;
+  column-gap: 30px;
+
+  .stat {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    column-gap: 10px;
+
+    &:hover {
+      grid-template-columns: 1fr 20px;
+
+      img {
+        display: block;
+      }
+    }
+
+    &__flex {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 15px 10px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      p {
+        margin: 0;
+        font-size: 16px;
+        text-transform: uppercase;
+      }
+    }
+
+    img {
+      width: 14px;
+      cursor: pointer;
+      display: none;
+    }
+  }
+}

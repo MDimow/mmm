@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: smartnft\n"
+"POT-Creation-Date: 2022-09-19 18:31+0600\n"
+"PO-Revision-Date: 2022-09-19 18:32+0600\n"
+"Last-Translator: \n"
+"Language-Team: Tophive\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ../../../MAMP/htdocs/wordpress/wp-content/plugins/smart-"
+"nft\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: artifacts\n"
+"X-Poedit-SearchPathExcluded-3: contracts\n"
+"X-Poedit-SearchPathExcluded-4: scripts\n"
+"X-Poedit-SearchPathExcluded-5: test\n"
+"X-Poedit-SearchPathExcluded-6: .gitignore\n"
+"X-Poedit-SearchPathExcluded-7: babel.config.json\n"
+"X-Poedit-SearchPathExcluded-8: hardhat.config.js\n"
+"X-Poedit-SearchPathExcluded-9: package.json\n"
+"X-Poedit-SearchPathExcluded-10: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-11: webpack.config.js\n"
+
+#: backend/api/contract-address.php:27 backend/api/contract-address.php:56
+#: backend/api/contract-address.php:85 backend/api/contract-address.php:104
+#: backend/api/contract-address.php:115 backend/api/contract-address.php:139
+#: backend/api/contract-address.php:165 backend/api/contract-address.php:180
+#: backend/api/contract-address.php:199 backend/api/filter-nfts.php:14
+#: backend/api/filter-nfts.php:108 backend/api/store-txhash.php:25
+#: backend/api/store-txhash.php:63 backend/api/store-txhash.php:81
+#: backend/api/store-txhash.php:98 backend/api/store-txhash.php:118
+#: backend/api/store-txhash.php:140 backend/api/store-txhash.php:158
+#: backend/api/store-txhash.php:186 backend/api/storeNft.php:29
+#: backend/api/storeNft.php:73 backend/api/storeNft.php:141
+#: backend/api/storeNft.php:179 backend/api/storeNft.php:251
+#: backend/api/storeNft.php:264 backend/api/storeNft.php:279
+#: backend/api/storeNft.php:369 frontend/api/save-profile.php:18
+#: frontend/api/save-profile.php:31 frontend/api/save-profile.php:54
+#: frontend/api/save-profile.php:68 frontend/api/save-profile.php:94
+msgid "fail"
+msgstr ""
+
+#: backend/api/contract-address.php:28 backend/api/contract-address.php:181
+msgid "No contract is send. Please send valid contract"
+msgstr ""
+
+#: backend/api/contract-address.php:46 backend/api/contract-address.php:75
+#: backend/api/contract-address.php:154 backend/api/contract-address.php:212
+#: backend/api/filter-nfts.php:95 backend/api/store-txhash.php:52
+#: backend/api/store-txhash.php:129 backend/api/store-txhash.php:174
+#: backend/api/storeNft.php:63 backend/api/storeNft.php:128
+#: backend/api/storeNft.php:157 backend/api/storeNft.php:169
+#: backend/api/storeNft.php:241 backend/api/storeNft.php:303
+#: backend/api/storeNft.php:321 backend/api/storeNft.php:340
+#: backend/api/storeNft.php:357 frontend/api/save-profile.php:44
+#: frontend/api/save-profile.php:84
+msgid "success"
+msgstr ""
+
+#: backend/api/contract-address.php:47 backend/api/contract-address.php:76
+#: backend/api/contract-address.php:155 backend/api/contract-address.php:213
+#: backend/api/filter-nfts.php:96 backend/api/settings.php:43
+#: backend/api/settings.php:72 backend/api/store-likes.php:54
+#: backend/api/store-likes.php:117 backend/api/store-likes.php:170
+#: backend/api/store-txhash.php:53 backend/api/store-txhash.php:130
+#: backend/api/store-txhash.php:175 backend/api/storeNft.php:64
+#: backend/api/storeNft.php:129 backend/api/storeNft.php:170
+#: backend/api/storeNft.php:242 frontend/api/save-profile.php:45
+#: frontend/api/save-profile.php:85
+msgid "operation success full"
+msgstr ""
+
+#: backend/api/contract-address.php:105
+msgid "No contract address found."
+msgstr ""
+
+#: backend/api/contract-address.php:116
+msgid "No contract_address is send. Please send valid contract_address"
+msgstr ""
+
+#: backend/api/contract-address.php:140
+msgid "No contract found with that address"
+msgstr ""
+
+#: backend/api/contract-address.php:200
+msgid "Some contract data is mot send. Please send valid contract"
+msgstr ""
+
+#: backend/api/filter-nfts.php:15
+msgid "No filter attributes is send"
+msgstr ""
+
+#: backend/api/settings.php:21
+msgid "No settings is send. Please send settings"
+msgstr ""
+
+#: backend/api/store-likes.php:27 backend/api/store-likes.php:80
+msgid "No Like info is send. Please send valid like info"
+msgstr ""
+
+#: backend/api/store-likes.php:97 backend/api/store-likes.php:161
+msgid "No Likes."
+msgstr ""
+
+#: backend/api/store-likes.php:144 backend/api/store-txhash.php:26
+#: backend/api/store-txhash.php:82 backend/api/store-txhash.php:159
+msgid "No TX info is send. Please send valid TX info"
+msgstr ""
+
+#: backend/api/store-txhash.php:99
+msgid "No TX hash found."
+msgstr ""
+
+#: backend/api/store-txhash.php:119
+msgid "No TX hash found with that tokenId"
+msgstr ""
+
+#: backend/api/storeNft.php:30
+msgid "No nft is send. Please send valid nfts"
+msgstr ""
+
+#: backend/api/storeNft.php:158
+msgid "No id is send. send valid id"
+msgstr ""
+
+#: backend/api/storeNft.php:265
+msgid "No nft_id is send. Please send valid nft_id"
+msgstr ""
+
+#: backend/api/storeNft.php:280
+msgid "No Nft found with that id"
+msgstr ""
+
+#: backend/api/storeNft.php:304
+msgid "Free minting meta update done"
+msgstr ""
+
+#: backend/api/storeNft.php:322
+msgid "Buy compleate meta update done"
+msgstr ""
+
+#: backend/api/storeNft.php:341
+msgid "Put again sell meta update done"
+msgstr ""
+
+#: backend/api/storeNft.php:358
+msgid "remove from sell meta update done"
+msgstr ""
+
+#: backend/inc/custom-post.php:9 backend/inc/widgets.php:36 smart-nft.php:57
+#: smart-nft.php:58
+msgid "Smart NFT"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:10
+msgid "Create Nft Form"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:65
+msgid "Create NFT text controll"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:81
+msgid "Heading Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:101
+msgid "Label Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:118
+msgid "Placeholder Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:133
+msgid "Border Controll"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:142
+msgid "Box Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:150
+msgid "Box Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:166
+msgid "Upload File Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:173
+msgid "Upload File Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:187
+msgid "Input Field Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:194
+msgid "Input Field Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:209
+msgid "Create NFT button controll"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:225
+msgid "Connect Btn Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:236
+msgid "Connect Btn BG Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:248
+msgid "Connect Btn Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:255
+msgid "Connect Btn Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:278
+msgid "Upload Btn Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:288
+msgid "Upload Btn BG Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:299
+msgid "Upload Btn Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:306
+msgid "Upload Btn Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:328
+msgid "Advance Option Btn Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:338
+msgid "Advance Option Btn BG Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:349
+msgid "Advance Option Btn Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:356
+msgid "Advance Option Btn Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:379
+msgid "Submit Btn Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:389
+msgid "Submit Btn BG Color"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:400
+msgid "Submit Btn Border"
+msgstr ""
+
+#: backend/inc/elementor/add-nft-form.php:407
+msgid "Submit Btn Border Radius"
+msgstr ""
+
+#: backend/inc/elementor/all-nfts.php:10
+msgid "All NFTs"
+msgstr ""
+
+#: backend/src/component/nft-form/form-header.js:8
+msgid "Create New NFT"
+msgstr ""
+
+#: backend/src/component/nft-form/form-wallet.js:20
+msgid "Choose wallet"
+msgstr ""
+
+#: backend/src/component/nft-form/form-wallet.js:26
+msgid "blockchain logo"
+msgstr ""
+
+#: backend/src/component/nft-form/form-wallet.js:41
+msgid "Connected"
+msgstr ""
+
+#: backend/src/component/nft-form/form-wallet.js:44
+msgid "Connect"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:84
+msgid "No media selected"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:89
+msgid "No name is provided"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:94
+msgid "Unlockable content cant be empty"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:99
+msgid "Price cant be empty or less then 0"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:150
+msgid "Free Minting complete."
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:206
+msgid "Minting complete. Wait for the metamask confirmation."
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:265
+msgid "Upload file"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:294
+msgid "PNG, GIF, WEBP, MP4 or MP3. Max 100mb."
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:297
+msgid "Choose file"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:310
+#: backend/src/component/nft-list/nft-table.js:21
+msgid "Name"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:313
+msgid "e. g. Redeemable T-Shirt with logo"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:324
+msgid "Description "
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:325
+msgid "(optional)"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:329
+msgid "Provide a detailed description of your item."
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:343
+#: backend/src/component/nft-form/image-upload-form.js:494
+#: backend/src/component/nft-list/nft-table.js:22
+msgid "Price"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:346
+#: frontend/src/component/single-page/putonsell.js:50
+msgid "Enter price for one piece"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:375
+msgid "Free minting"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:386
+msgid "Buyer will pay gas fees for minting"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:394
+msgid "Unlockable Content"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:405
+msgid "Only who owns will be able to see it"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:414
+msgid "Put text or a link in the unlockable content"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:439
+msgid "Show Advanced Option"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:446
+msgid "Properties"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:447
+msgid " (Optional)"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:454
+msgid "e.g: Size"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:460
+msgid "e.g: M"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:474
+#: frontend/src/component/single-page/putonsell.js:63
+msgid "Submit"
+msgstr ""
+
+#: backend/src/component/nft-form/image-upload-form.js:480
+msgid "Preview"
+msgstr ""
+
+#: backend/src/component/nft-list/index.js:9
+msgid "All NFT"
+msgstr ""
+
+#: backend/src/component/nft-list/index.js:11
+msgid "Create New"
+msgstr ""
+
+#: backend/src/component/nft-list/nft-table.js:20
+msgid "Image"
+msgstr ""
+
+#: backend/src/component/nft-list/nft-table.js:23
+msgid "Link"
+msgstr ""
+
+#: backend/src/component/nft-list/nft-table.js:56
+msgid "view"
+msgstr ""
+
+#: backend/src/component/settings/common.js:24
+#: backend/src/component/settings/components/api-settings.js:62
+#: backend/src/component/settings/components/api-settings.js:94
+msgid "Don't have infura credentials?"
+msgstr ""
+
+#: backend/src/component/settings/common.js:25
+#: backend/src/component/settings/components/api-settings.js:64
+#: backend/src/component/settings/components/api-settings.js:96
+msgid "Get It From Here"
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:30
+#: backend/src/component/settings/components/layout-settings.js:47
+msgid "Setting saved successfully."
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:35
+msgid "Infura API Secrets"
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:40
+msgid "Infura Project ID"
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:44
+#: backend/src/component/settings/components/api-settings.js:76
+msgid ""
+"Keep your project ID hidden. This should never be human-readablein your "
+"application."
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:59
+#: backend/src/component/settings/components/api-settings.js:91
+msgid "Save"
+msgstr ""
+
+#: backend/src/component/settings/components/api-settings.js:72
+msgid "Infura Project Secret"
+msgstr ""
+
+#: backend/src/component/settings/components/layout-settings.js:55
+msgid "Layout Settings"
+msgstr ""
+
+#: backend/src/component/settings/components/layout-settings.js:58
+msgid ""
+"You can configure and setup your necessary layout settings from this menu."
+msgstr ""
+
+#: backend/src/component/settings/components/layout-settings.js:67
+msgid "Save Settings"
+msgstr ""
+
+#: backend/src/component/smart-contracts/deployed-contract-list.js:38
+msgid "Available Smart Contracts"
+msgstr ""
+
+#: backend/src/component/smart-contracts/deployed-contract-list.js:102
+msgid "NETWORK: "
+msgstr ""
+
+#: backend/src/nft-list.js:20
+msgid "Back to list"
+msgstr ""
+
+#: common/component/nofnt.js:8
+msgid "No NFTs Found"
+msgstr ""
+
+#: common/component/nofnt.js:9
+msgid "No nft has been found in your search criteria.Please try again"
+msgstr ""
+
+#: common/component/popup.js:15
+msgid "NFT link copied to clipboard"
+msgstr ""
+
+#: common/hook/useLikes.hook.js:9
+msgid "Please provide tokenId"
+msgstr ""
+
+#: common/hook/useLikes.hook.js:34
+msgid "Please connect wallet for your action."
+msgstr ""
+
+#: frontend/api/save-profile.php:19
+msgid "No profile is send. Please send valid profile"
+msgstr ""
+
+#: frontend/api/save-profile.php:32 frontend/api/save-profile.php:69
+msgid "No account is send. Please send valid account"
+msgstr ""
+
+#: frontend/inc/all-nft.php:13 frontend/inc/all-nft.php:25
+msgid "All Nft"
+msgstr ""
+
+#: frontend/inc/edit-profile.php:13 frontend/inc/edit-profile.php:25
+msgid "Edit profile"
+msgstr ""
+
+#: frontend/inc/profile.php:14 frontend/inc/profile.php:26
+msgid "Profile"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:38
+msgid "Display name"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:42
+msgid "Enter your display name"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:55
+msgid "Username"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:59
+msgid "Enter your username"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:72
+msgid "Short bio"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:74
+msgid "Tell about yourself in a few words"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:91
+msgid "Email"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:92
+msgid "Your email for marketplace notifications"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:96
+msgid "Enter your email"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:109
+msgid "Social links"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:112
+msgid "Add your existing social links to build a stronger reputation"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:118
+msgid "Website URL"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:126
+msgid "Enter your Twitter Link"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:134
+msgid "Enter your Insta Link"
+msgstr ""
+
+#: frontend/src/component/edit-profile/form.js:147
+msgid "Save settings"
+msgstr ""
+
+#: frontend/src/component/edit-profile/uplod-img.js:26
+msgid "File is larger then 2mb. Please upload an image less then 2mb."
+msgstr ""
+
+#: frontend/src/component/edit-profile/uplod-img.js:33
+msgid "Please upload an image file"
+msgstr ""
+
+#: frontend/src/component/edit-profile/uplod-img.js:50
+msgid "Profile Image"
+msgstr ""
+
+#: frontend/src/component/filter/searchbar.js:30
+msgid "Select an option"
+msgstr ""
+
+#: frontend/src/component/filter/searchbar.js:38
+#: frontend/src/component/filter/searchbar.js:46
+msgid "Price : High to low"
+msgstr ""
+
+#: frontend/src/component/filter/searchbar.js:53
+msgid "Price : Low to High"
+msgstr ""
+
+#: frontend/src/component/filter/searchbar.js:62
+msgid "Price : Low to high"
+msgstr ""
+
+#: frontend/src/component/single-page/putonsell.js:32
+msgid "Your NFT is successfully put on sale"
+msgstr ""
+
+#: frontend/src/component/single-page/putonsell.js:47
+msgid "Give a new price to put this asset for sell."
+msgstr ""
+
+#: frontend/src/component/single-page/removeFromSell.js:23
+#: frontend/src/component/single-page/removeFromSell.js:32
+msgid "Your NFT is successfully remove from sell"
+msgstr ""
+
+#: frontend/src/component/single-page/removeFromSell.js:53
+msgid "Remove from sell"
+msgstr ""
+
+#: frontend/src/component/single-page/single-nft-info.js:49
+msgid "Creator"
+msgstr ""
+
+#: frontend/src/component/single-page/tabs.js:28
+msgid "Description"
+msgstr ""
+
+#: frontend/src/component/single-page/tabs.js:34
+msgid "Details"
+msgstr ""
+
+#: frontend/src/hooks/useProfileEdit.js:36
+msgid "Profile Saved successfully"
+msgstr ""
+
+#: frontend/src/hooks/useProfileEdit.js:40
+msgid "There was an error saving profile. Please try again"
+msgstr ""
+
+#: smart-nft.php:68 smart-nft.php:69
+msgid "NFT List"
+msgstr ""
+
+#: smart-nft.php:77 smart-nft.php:78
+msgid "Add new"
+msgstr ""
+
+#: smart-nft.php:87 smart-nft.php:88
+msgid "Smart Contracts"
+msgstr ""
+
+#: smart-nft.php:96 smart-nft.php:97
+msgid "Settings"
+msgstr ""

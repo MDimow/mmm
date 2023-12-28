@@ -1,0 +1,3 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
+$environment_variable = '{"themes":{"1":{"themes_url":"https:\/\/mintmingle.ai\/wp-content\/themes","use_child_theme":false,"main":{"folder_name":"blocksy","mapped_name":""}}},"allowed_paths":["\/home\/u490848992\/domains\/mintmingle.ai\/public_html\/wp-content\/themes"],"wordpress_directory":"","site_relative_path":"\/","cache_path":"\/home\/u490848992\/domains\/mintmingle.ai\/public_html\/wp-content\/cache\/wph\/"}'; ?>

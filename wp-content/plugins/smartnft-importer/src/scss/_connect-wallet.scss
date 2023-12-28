@@ -1,0 +1,13 @@
+.step-one {
+  #network {
+    width: 300px;
+  }
+
+  .wallet-btn-con {
+    input {
+      width: 40%;
+      @include inputStyle;
+      margin-right: 10px;
+    }
+  }
+}
